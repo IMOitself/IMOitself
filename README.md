@@ -9,5 +9,5 @@ https://linktr.ee/imoitself
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-currently implementing python to gradle and java:D
+currently making a code editor app for android:D
 </div>
