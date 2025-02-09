@@ -6,7 +6,7 @@ old account: [@IMOaswell](https://github.com/IMOaswell)
 
 some stuffs i do on the internet:
 
-[a list of links:D](https://linktr.ee/imoitself)
+[some links here:D](https://linktr.ee/imoitself)
 
 ```¯\_(ツ)_/¯```
 
