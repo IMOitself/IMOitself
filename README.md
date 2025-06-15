@@ -1,14 +1,10 @@
 <div align="center">
 
-## in simplest way possible:D
+*in simplest way possible:D*
 
-old account: [@IMOaswell](https://github.com/IMOaswell)
+## old account: [@IMOaswell](https://github.com/IMOaswell)
 
-some stuffs i do on the internet:
-
-[some links here:D](https://linktr.ee/imoitself)
-
-```¯\_(ツ)_/¯```
+## [some links here:D](https://linktr.ee/imoitself)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
