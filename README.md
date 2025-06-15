@@ -5,7 +5,8 @@
 
 <br>
 
-![Visits](https://img.shields.io/badge/Visits-31874-blue?style=for-the-badge)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&countColor=%23263759)](https://visitorbadge.io/status?path=IMOitself)
+
 ## old account: [@IMOaswell](https://github.com/IMOaswell)
 
 ## [some links here:D](https://linktr.ee/imoitself)
