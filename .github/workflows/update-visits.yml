@@ -28,7 +28,7 @@ jobs:
         run: |
           visits=${{ steps.increment.outputs.visits }}
           badge="![Visits](https://img.shields.io/badge/Visits-31874-blue?style=for-the-badge)"
-          sed -i 's|!\[Visits\](https://img.shields.io/badge/Visits-*-blue?style=for-the-badge)|'"$badge"'|' README.md
+          sed -i 's|!\[Visits\](https://img.shields.io/badge/Visits-.*-blue?style=for-the-badge)|'"$badge"'|' README.md
 
       - name: Commit changes
         run: |
