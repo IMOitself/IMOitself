@@ -32,7 +32,7 @@
 <br>
 
 ## Goals
-<div align="left">
+<div align="left" style="width: fit-content; text-align: left;">
   
 - 🔥 reach **1000 Commits**
 - 🐑 build a text editor app
