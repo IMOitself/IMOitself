@@ -5,6 +5,7 @@
 
 <br>
 
+![Visits](https://img.shields.io/badge/Visits-31874-blue)
 ## old account: [@IMOaswell](https://github.com/IMOaswell)
 
 ## [some links here:D](https://linktr.ee/imoitself)
