@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-*in simplest way possible:D*
+*at lowest way possible:D*
 
 <br>
 
