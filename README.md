@@ -15,6 +15,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-bg=true&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+
 ## Latest Projects
 
 **The After Series**
@@ -26,4 +28,16 @@
 **College Project**
 
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## Goals
+<div align="left">
+  
+- 🔥 reach **1000 Commits**
+- 🐑 build a text editor app
+- 🐏 build a code editor app
+- 🔪 watch one piece
+
+</div> 
 </div>
