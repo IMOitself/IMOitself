@@ -34,10 +34,10 @@
 ## Goals
 <div align="left" style="width: fit-content; text-align: left;">
   
-- 🔥 reach **1000 Commits**
-- 🐑 build a text editor app
-- 🐏 build a code editor app
-- 🔪 watch one piece
+- [ ] 🔥 reach **1000 Commits**
+- [ ] 🐑 build a text editor app
+- [ ] 🐏 build a code editor app
+- [ ] 🔪 watch one piece
 
 </div> 
 </div>
