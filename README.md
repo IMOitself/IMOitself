@@ -18,13 +18,13 @@
 
 **The After Series**
 
-[![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
+[![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterGit)
+[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 
 **College Project**
 
-[![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
 <br>
 
