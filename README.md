@@ -5,6 +5,14 @@
 
 <br>
 
+| Goals |
+| :--- |
+| [ ] 🔥 reach **1000 Commits** |
+| [ ] 🐑 build a text editor app |
+| [ ] 🐏 build a code editor app |
+| [ ] 🐐 build a file manager app |
+| [ ] 🔪 watch one piece |
+
 [![Old Account - @IMOaswell](https://img.shields.io/badge/IMOaswell-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 [![Links](https://img.shields.io/badge/All%20Links-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/imoitself)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
@@ -30,13 +38,5 @@
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
 <br>
-
-| Goals |
-| :--- |
-| [ ] 🔥 reach **1000 Commits** |
-| [ ] 🐑 build a text editor app |
-| [ ] 🐏 build a code editor app |
-| [ ] 🐐 build a file manager app |
-| [ ] 🔪 watch one piece |
  
 </div>
