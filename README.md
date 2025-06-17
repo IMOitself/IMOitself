@@ -9,7 +9,7 @@
 [![Links](https://img.shields.io/badge/All%20Links-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/imoitself)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=nord&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=nord&hide_border=true&card_width=228&card_height=170&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&rank=-C,-?&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
@@ -31,14 +31,12 @@
 
 <br>
 
-## Goals
-<div align="left" style="width: fit-content; text-align: left;">
-  
-- [ ] 🔥 reach **1000 Commits**
-- [ ] 🐑 build a text editor app
-- [ ] 🐏 build a code editor app
-- [ ] 🐐 build a file manager app
-- [ ] 🔪 watch one piece
-
-</div> 
+| Goals |
+| :--- |
+| [ ] 🔥 reach **1000 Commits** |
+| [ ] 🐑 build a text editor app |
+| [ ] 🐏 build a code editor app |
+| [ ] 🐐 build a file manager app |
+| [ ] 🔪 watch one piece |
+ 
 </div>
