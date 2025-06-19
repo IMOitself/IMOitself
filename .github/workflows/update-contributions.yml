@@ -1,8 +1,8 @@
-name: Update Total Contributions in README
+name: Update Total Contributions
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run daily at midnight UTC
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -10,43 +10,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Get GitHub Contributions
+      - name: Get Total Contributions
         id: get_contributions
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          USERNAME: IMOitself
         run: |
-          USERNAME="IMOitself" # Replace with the actual GitHub username
-          GH_TOKEN="${{ secrets.GH_PAT }}"
+          # Get user creation year
+          creation_year=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d '{ "query": "query { user(login: \"'$USERNAME'\") { createdAt } }" }' https://api.github.com/graphql | jq -r '.data.user.createdAt' | cut -d'-' -f1)
+          current_year=$(date +'%Y')
+          total_contributions=0
 
-          # Use GitHub GraphQL API to get total contributions
-          # This query gets the totalContributions for the past year, which is what the profile graph shows.
-          # If you need all-time, it's more complex and might involve iterating through years.
-          # For a single user's profile, the 'totalContributions' in the 'contributionCalendar' is usually what people mean.
-          TOTAL_CONTRIBUTIONS=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST -d '{"query": "query { user(login: \"'$USERNAME'\") { contributionsCollection { contributionCalendar { totalContributions } } } }"}' https://api.github.com/graphql | jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          for year in $(seq $creation_year $current_year); do
+            from_date="${year}-01-01T00:00:00Z"
+            to_date="${year}-12-31T23:59:59Z"
 
-          echo "Total contributions for $USERNAME: $TOTAL_CONTRIBUTIONS"
-          echo "TOTAL_CONTRIBUTIONS=$TOTAL_CONTRIBUTIONS" >> $GITHUB_ENV
+            query='{"query": "query ($from: DateTime!, $to: DateTime!) { user(login: \"'$USERNAME'\") { contributionsCollection(from: $from, to: $to) { contributionCalendar { totalContributions } } } }", "variables": {"from": "'$from_date'", "to": "'$to_date'"}}'
+            contributions=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d "$query" https://api.github.com/graphql | jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+            total_contributions=$((total_contributions + contributions))
+          done
+
+          echo "total_contributions=$total_contributions" >> $GITHUB_ENV
 
       - name: Update README.md
         run: |
-          README_FILE="README.md"
-          NEW_LINE="total contributions: ${{ env.TOTAL_CONTRIBUTIONS }}"
-
-          # Check if the line already exists
-          if grep -q "total contributions:" "$README_FILE"; then
-            # Replace the existing line
-            sed -i "s/^total contributions: .*/$NEW_LINE/" "$README_FILE"
-          else
-            # Add the line if it doesn't exist (e.g., at the end of the file)
-            echo "$NEW_LINE" >> "$README_FILE"
-          fi
+          sed -i "s/total contributions: .*/total contributions: ${{ env.total_contributions }}/" README.md
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update total contributions in README"
-          # Ensure this action has write permissions.
-          # The default GITHUB_TOKEN usually has sufficient permissions for the current repo.
-          # If you used your GH_PAT for the API call, you might need to use it here too if default token isn't enough,
-          # but it's generally better to use GITHUB_TOKEN for repo changes if possible.
-          token: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token for pushing
+          commit_message: "docs: Update total contributions count"
+          file_pattern: README.md
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
