@@ -9,9 +9,9 @@
 [![Links](https://img.shields.io/badge/All%20Links-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/imoitself)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-| Stats |
+| 🔥 Streak |
 | :---: |
-| 🔥  |
+| 0 days  |
 
 
 total contributions: 587
