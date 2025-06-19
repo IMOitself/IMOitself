@@ -15,52 +15,66 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      
       - name: Calculate Contribution Streak
         id: get_streak
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          # Make sure to change this to your GitHub username
           USERNAME: IMOitself
         run: |
-          GRAPHQL_QUERY="query { user(login: \"$USERNAME\") { contributionsCollection { contributionCalendar { weeks { contributionDays { date contributionCount } } } } } }"
-          
-          # Make the API call and store the response
-          response=$(curl -s -H "Authorization: bearer $GITHUB_TOKEN" -X POST -d "{ \"query\": \"$GRAPHQL_QUERY\" }" https://api.github.com/graphql)
-          
-          # DEBUG: Print the raw response from GitHub to see if it's an error
-          echo "--- API Response ---"
-          echo "$response"
-          echo "--------------------"
-          
-          # Check if the response contains actual user data before processing
-          user_data_exists=$(echo "$response" | jq '.data.user')
-          if [ "$user_data_exists" == "null" ] || [ -z "$user_data_exists" ]; then
-            echo "Error: Could not retrieve user data. Check if USERNAME is correct and GH_PAT is valid."
-            # Set streak to 0 to avoid breaking subsequent steps
-            echo "streak=0" >> $GITHUB_ENV
-            exit 0
-          fi
+          # GraphQL query to fetch contribution data
+          query='{"query": "query($username: String!) { user(login: $username) { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount date } } } } } }", "variables": {"username": "'$USERNAME'"}}'
 
-          # If we get here, data is valid and we can calculate the streak
-          current_streak=0
-          today=$(date -u +"%Y-%m-%d")
-          yesterday=$(date -u -d "yesterday" +"%Y-%m-%d")
+          # Fetch the data and parse it with jq
+          # This creates a flat list of contribution objects for each day
+          contribution_data=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d "$query" https://api.github.com/graphql | jq '[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]]')
           
-          contributed_today=$(echo "$response" | jq --arg date "$today" '.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[] | select(.date == $date and .contributionCount > 0) | .contributionCount')
-          contributed_yesterday=$(echo "$response" | jq --arg date "$yesterday" '.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[] | select(.date == $date and .contributionCount > 0) | .contributionCount')
+          # Get today's date in YYYY-MM-DD format (UTC)
+          today_utc=$(date -u +"%Y-%m-%d")
           
-          if [ -n "$contributed_today" ]; then
-            current_streak=$(echo "$response" | jq -r '[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]] | reverse | .[] | .contributionCount' | awk 'BEGIN {c=0} {if ($1 > 0) c++; else exit} END{print c}')
-          elif [ -n "$contributed_yesterday" ]; then
-            current_streak=$(echo "$response" | jq -r '[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]] | reverse | .[1:] | .[] | .contributionCount' | awk 'BEGIN {c=0} {if ($1 > 0) c++; else exit} END{print c}')
+          # Extract just the contribution counts into a shell array
+          # The output of jq is a space-separated string, which we read into a bash array
+          read -r -a counts <<< "$(echo "$contribution_data" | jq '.[].contributionCount' | tr '\n' ' ')"
+          
+          # Extract the corresponding dates into a shell array
+          read -r -a dates <<< "$(echo "$contribution_data" | jq -r '.[].date' | tr '\n' ' ')"
+
+          # Find the index of today's date
+          today_index=-1
+          for i in "${!dates[@]}"; do
+            if [[ "${dates[$i]}" == "$today_utc" ]]; then
+              today_index=$i
+              break
+            fi
+          done
+
+          # If today is not found, something is wrong, exit
+          if [ $today_index -eq -1 ]; then
+            echo "Could not find today's date in the contribution data."
+            exit 1
           fi
+          
+          current_streak=0
+          
+          # Loop backwards from today to count the contiguous streak
+          for ((i=today_index; i>=0; i--)); do
+            if [ ${counts[$i]} -gt 0 ]; then
+              # Increment the streak for each consecutive day with contributions
+              current_streak=$((current_streak + 1))
+            else
+              # If a day with no contributions is found, the streak is broken
+              break
+            fi
+          done
           
           echo "Current streak: $current_streak days"
           echo "streak=$current_streak" >> $GITHUB_ENV
-          
+        
       - name: Update README.md
         env:
-            # The env variable from the previous step is automatically available
-            streak: ${{ steps.get_streak.outputs.streak }}
+          # The env variable from the previous step is automatically available
+          streak: ${{ steps.get_streak.outputs.streak }}
         run: |
           # This command looks for the placeholder and replaces the number
           # Make sure your README has a line like "My current streak: 0 days"
