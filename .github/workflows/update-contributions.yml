@@ -8,6 +8,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # Add this permissions block
+    permissions:
+      contents: write # Grants write permissions for repository content
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
