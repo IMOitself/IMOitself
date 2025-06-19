@@ -9,7 +9,7 @@
 [![Links](https://img.shields.io/badge/All%20Links-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/imoitself)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-total contributions: 0
+total contributions: 587
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&rank=-C,-?&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
