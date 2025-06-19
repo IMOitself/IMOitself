@@ -76,7 +76,7 @@ jobs:
           # The env variable from the previous step is automatically available
           streak: ${{ steps.get_streak.outputs.streak }}
         run: |
-          sed -i '/| Stats |/,/| 🔥/c\current streak: ${{ env.streak }} days' README.md
+          sed -i 's/| Stats |/,/| 🔥 .*/streak: ${{ env.streak }} days' README.md
           # sed -i "s/current streak: .* days/current streak: ${{ env.streak }} days/" README.md
 
       - name: Commit and push changes
