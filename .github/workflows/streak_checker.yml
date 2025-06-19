@@ -83,7 +83,7 @@ jobs:
         run: |
           # This command looks for the placeholder and replaces the number
           # Make sure your README has a line like "My current streak: 0 days"
-          sed -i "s/My current streak: .* days/My current streak: ${{ env.streak }} days/" README.md
+          sed -i "s/current streak: .* days/current streak: ${{ env.streak }} days/" README.md
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
