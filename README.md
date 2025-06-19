@@ -9,9 +9,10 @@
 [![Links](https://img.shields.io/badge/All%20Links-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/imoitself)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-current streak:  days
-
-total contributions: 613
+| Stats |
+| :--- |
+| current streak:  days |
+| total contributions: 613 |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&rank=-C,-?&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
