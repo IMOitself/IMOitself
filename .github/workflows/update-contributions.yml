@@ -43,7 +43,18 @@ jobs:
         run: |
           sed -i "s/total contributions: .*/total contributions: ${{ env.total_contributions }}/" README.md
 
+      - name: Check for staged changes
+        id: check_changes
+        run: |
+          git add . # Or your specific file_pattern
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Commit and push changes
+        if: steps.check_changes.outputs.no_changes == 'false'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "docs: Update total contributions count"
