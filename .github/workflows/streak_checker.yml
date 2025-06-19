@@ -1,0 +1,95 @@
+name: Update Daily Streak
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows for manual triggering
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit changes to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate Contribution Streak
+        id: get_streak
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          # Make sure to change this to your GitHub username
+          USERNAME: IMOitself
+        run: |
+          # GraphQL query to fetch contribution data
+          query='{"query": "query($username: String!) { user(login: $username) { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount date } } } } } }", "variables": {"username": "'$USERNAME'"}}'
+
+          # Fetch the data and parse it with jq
+          # This creates a flat list of contribution counts for each day
+          contribution_data=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d "$query" https://api.github.com/graphql | jq '[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]]')
+          
+          # Get today's date in YYYY-MM-DD format (UTC)
+          today_utc=$(date -u +"%Y-%m-%d")
+          
+          # Extract just the contribution counts into an array
+          counts=($(echo $contribution_data | jq '.[].contributionCount'))
+          
+          # Extract the corresponding dates into an array
+          dates=($(echo $contribution_data | jq -r '.[].date'))
+
+          # Find the index of today's date
+          today_index=-1
+          for i in "${!dates[@]}"; do
+            if [[ "${dates[$i]}" == "$today_utc" ]]; then
+              today_index=$i
+              break
+            fi
+          done
+
+          # If today is not found, something is wrong, exit
+          if [ $today_index -eq -1 ]; then
+            echo "Could not find today's date in the contribution data."
+            exit 1
+          fi
+          
+          current_streak=0
+          
+          # Check today's contributions first
+          if [ ${counts[$today_index]} -gt 0 ]; then
+            current_streak=${counts[$today_index]}
+          fi
+          
+          # If today has contributions, start counting from yesterday
+          # If today has no contributions, start counting from yesterday as well
+          # This correctly handles the case where the streak might have ended yesterday
+          start_index=$((today_index - 1))
+
+          # Loop backwards from yesterday to count the streak
+          for ((i=start_index; i>=0; i--)); do
+            if [ ${counts[$i]} -gt 0 ]; then
+              current_streak=$((current_streak + 1))
+            else
+              # Streak is broken
+              break
+            fi
+          done
+          
+          echo "Current streak: $current_streak days"
+          echo "streak=$current_streak" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          # This command looks for the placeholder and replaces the number
+          # Make sure your README has a line like "My current streak: 0 days"
+          sed -i "s/My current streak: .* days/My current streak: ${{ env.streak }} days/" README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Update daily streak"
+          file_pattern: README.md
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
