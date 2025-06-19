@@ -70,6 +70,7 @@ jobs:
           
           echo "Current streak: $current_streak days"
           echo "streak=$current_streak" >> $GITHUB_ENV
+          echo "Debug: current_streak value for GITHUB_ENV is: $current_streak" # Add this line
         
       - name: Update README.md
         env:
