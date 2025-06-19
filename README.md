@@ -11,7 +11,7 @@
 
 | Stats |
 | :---: |
-| streak:  |
+| 🔥  |
 
 
 total contributions: 587
