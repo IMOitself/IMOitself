@@ -71,11 +71,8 @@ jobs:
           echo "Current streak: $current_streak days"
           echo "streak=$current_streak" >> $GITHUB_ENV
           echo "Debug: current_streak value for GITHUB_ENV is: $current_streak" # Add this line
+          sed -i "s/current streak: .* days/current streak: $current_streak days/" README.md
         
-      - name: Update README.md
-        run: |
-          sed -i "s/current streak: .* days/current streak: ${{ steps.get_streak.outputs.streak }} days/" README.md
-          
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
