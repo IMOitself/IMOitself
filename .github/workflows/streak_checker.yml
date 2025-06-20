@@ -3,7 +3,7 @@ name: Update Daily Streak
 on:
   schedule:
     # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch: # Allows for manual triggering
 
 jobs:
