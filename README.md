@@ -12,7 +12,7 @@
 | Stats |
 | :--- |
 | current streak: 7 days |
-| total contributions: 614
+| total contributions: 625
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&rank=-C,-?&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
