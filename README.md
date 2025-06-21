@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-***at lowest way possible:D***
+***anti vibe coding:D***
 
 <br>
 
@@ -27,6 +27,8 @@
 ## Latest Projects
 
 **The After Series**
+> apps made using only my phone.
+> These will help me build bigger apps fast.
 
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
 
@@ -35,6 +37,8 @@
 [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 
 **College Project**
+> terminal based game on java.
+> published when i was 1st year
 
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
