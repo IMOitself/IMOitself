@@ -27,8 +27,9 @@
 ## Latest Projects
 
 **The After Series**
-> apps made using only my phone.
-> These will help me build bigger apps fast.
+
+<sub>apps made using only my phone.
+<br> These will help me build bigger apps fast.</sub>
 
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
 
@@ -38,8 +39,8 @@
 
 **College Project**
 
-<sub> terminal based game on java.
-published when i was 1st year </sub>
+<sub> terminal based game on java.<br>
+published when i was 1st year. </sub>
 
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
