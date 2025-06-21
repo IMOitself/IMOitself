@@ -43,5 +43,7 @@
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
 <br>
- 
+
+![Last Commit](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge)
+
 </div>
