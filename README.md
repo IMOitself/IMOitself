@@ -44,6 +44,6 @@
 
 <br>
 
-![Last Commit](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=flat_square)
 
 </div>
