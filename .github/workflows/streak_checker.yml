@@ -3,8 +3,7 @@ name: Update Daily Streak
 on:
   push:
   schedule:
-    # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: # Allows for manual triggering
 
 jobs:
@@ -73,8 +72,19 @@ jobs:
           echo "streak=$current_streak" >> $GITHUB_ENV
           echo "Debug: current_streak value for GITHUB_ENV is: $current_streak" # Add this line
           sed -i "s/current streak: .* days/current streak: $current_streak days/" README.md
-        
+          
+      - name: Check for staged changes
+        id: check_changes
+        run: |
+          git add . # Or your specific file_pattern
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+          
       - name: Commit and push changes
+        if: steps.check_changes.outputs.no_changes == 'false'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: Update daily streak"
