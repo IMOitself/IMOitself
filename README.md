@@ -3,8 +3,8 @@
   
 ***anti vibe coding:D***
 
-> ***today's random text:*** <br>
-> already 2am. these i found: <sub>Obtainium, Nobook, AppCoder (AndroidIDE fork) and AndroidPE
+> today's random text: <br>
+> `make apps on ur phone>:D`
 
 <br>
 
