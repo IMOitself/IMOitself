@@ -71,7 +71,7 @@ jobs:
           echo "Current streak: $current_streak days"
           echo "streak=$current_streak" >> $GITHUB_ENV
           echo "Debug: current_streak value for GITHUB_ENV is: $current_streak" # Add this line
-          sed -i "s/current streak: .* days/current streak: $current_streak days/" README.md
+          sed -i "s/streak: .* days/streak: $current_streak days/" README.md
             
       - name: Check for staged changes
         id: check_changes
