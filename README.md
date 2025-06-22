@@ -4,7 +4,7 @@
 ***anti vibe coding:D***
 
 > ***today's random text:*** <br>
-> already 2am. these what i found: <sub>Obtainium, Nobook and AppCoder (fork of AndroidIDE)
+> already 2am. these i found: <sub>Obtainium, Nobook, AppCoder (AndroidIDE fork) and AndroidPE
 
 <br>
 
