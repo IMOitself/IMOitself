@@ -3,6 +3,9 @@
   
 ***anti vibe coding:D***
 
+> ***today's random text:*** <br>
+> its 1am and i discovered some awesome apps tonight:0. Obtainium and AppCoder (fork of AndroidIDE)
+
 <br>
 
 [![Old Account - @IMOaswell](https://img.shields.io/badge/IMOaswell-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
