@@ -20,7 +20,7 @@
 | 🏆 1000 Commits |
 | 🥚 text editor |
 | 🐤 code editor |
-| 🔪 finish cyberpunk edgerunners |
+| 🔪 finish cyberpunk |
 
 <br>
 
