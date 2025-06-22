@@ -20,7 +20,7 @@
 | 🏆 1000 Commits |
 | 🥚 text editor |
 | 🐤 code editor |
-| 🔪 watch one piece |
+| 🔪 finish cyberpunk edgerunners |
 
 <br>
 
