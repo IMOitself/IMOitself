@@ -12,7 +12,7 @@
 
 | Goals                                                      | Stats                                    |
 | :--------------------------------------------------------- | :--------------------------------------- |
-| 🏆 **1000 Commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk** | 🔥 **current streak**: 9 days<br>☕ **total contributions**: 675<br><br><br> |
+| <sub>🏆 **1000 Commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 **streak**: 9 days<br>☕ **contribs**: 675<br><br><br></sub> |
 
 ## Latest Projects
 
