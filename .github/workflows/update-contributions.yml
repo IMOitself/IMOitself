@@ -42,7 +42,7 @@ jobs:
 
       - name: Update README.md
         run: |
-          sed -i "s/total contributions: .*/total contributions: ${{ env.total_contributions }}/" README.md
+          sed -i "s/contribs: .*/contribs: ${{ env.total_contributions }}/" README.md
 
       - name: Check for staged changes
         id: check_changes
