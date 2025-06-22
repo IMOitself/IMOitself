@@ -4,7 +4,7 @@
 ***anti vibe coding:D***
 
 > ***today's random text:*** <br>
-> its 1am and i discovered some awesome apps tonight:0. Obtainium and AppCoder (fork of AndroidIDE)
+> its 1am and i discovered some awesome apps tonight:0. <sub>Obtainium, Nobook and AppCoder (fork of AndroidIDE)
 
 <br>
 
