@@ -10,17 +10,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&rank=-C,-?&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
-| stats |
-| :--- |
-| 🔥 current streak: 9 days |
-| ☕ total contributions: 675
-
-| goals |
-| :--- |
-| 🏆 1000 Commits |
-| 🥚 text editor |
-| 🐤 code editor |
-| 🔪 finish cyberpunk |
+| Goals               | Stats                   |
+| :------------------ | :---------------------- |
+| 🏆 **1000 Commits** | 🔥 current streak: 9 days  |
+| 🥚 **text editor** | ☕ total contributions: 675 |
+| 🐤 **code editor** |                         |
+| 🔪 **finish cyberpunk** |                         |
 
 <br>
 
