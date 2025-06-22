@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        
       - name: Calculate Contribution Streak
         id: get_streak
         env:
@@ -30,8 +30,8 @@ jobs:
           # This creates a flat list of contribution objects for each day
           contribution_data=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d "$query" https://api.github.com/graphql | jq '[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]]')
           
-          # Get today's date in YYYY-MM-DD format (UTC)
-          today_utc=$(date -u +"%Y-%m-%d")
+          # Get today's date in YYYY-MM-DD format (Philippine Standard Time)
+          today_pst=$(TZ="Asia/Manila" date +"%Y-%m-%d")
           
           # Extract just the contribution counts into a shell array
           # The output of jq is a space-separated string, which we read into a bash array
@@ -43,7 +43,7 @@ jobs:
           # Find the index of today's date
           today_index=-1
           for i in "${!dates[@]}"; do
-            if [[ "${dates[$i]}" == "$today_utc" ]]; then
+            if [[ "${dates[$i]}" == "$today_pst" ]]; then
               today_index=$i
               break
             fi
@@ -72,7 +72,7 @@ jobs:
           echo "streak=$current_streak" >> $GITHUB_ENV
           echo "Debug: current_streak value for GITHUB_ENV is: $current_streak" # Add this line
           sed -i "s/current streak: .* days/current streak: $current_streak days/" README.md
-          
+            
       - name: Check for staged changes
         id: check_changes
         run: |
