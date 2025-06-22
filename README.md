@@ -29,7 +29,7 @@
 **The After Series**
 
 <sub>apps made using only my phone.
-<br> These will help me build bigger apps fast.</sub>
+<br> These will help me build bigger apps in the future.</sub>
 
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
 
