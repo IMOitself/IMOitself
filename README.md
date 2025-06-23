@@ -4,7 +4,7 @@
 ***anti vibe coding:D***
 
 > today's random text: <br>
-> `🎉 700 contributions!`
+> `ur face looks like a butt with a wig on it`
 
 <br>
 
