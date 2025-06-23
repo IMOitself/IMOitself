@@ -4,7 +4,7 @@
 ***anti vibe coding:D***
 
 > today's random text: <br>
-> `make apps on ur phone>:D`
+> `if it aint broke, dont fix it`
 
 <br>
 
