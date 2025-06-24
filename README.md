@@ -1,10 +1,10 @@
 <div align="center">
 <br>
   
-***anti vibe coding:D***
+***lowercase madness >:D***
 
 > today's random text: <br>
-> `idk what to put here today`
+> `predator killer of killers :0`
 
 <br>
 
