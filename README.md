@@ -4,7 +4,7 @@
 ***lowercase madness >:D***
 
 > today's random text: <br>
-> `predator killer of killers :0`
+> `in Japan, u go through puberty at age 4`
 
 <br>
 
