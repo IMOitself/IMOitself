@@ -14,15 +14,24 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&title=Commits,Repositories&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
-| Goals                                                      | Stats                                    |
+| goals                                                      | stats                                    |
 | :--------------------------------------------------------- | :--------------------------------------- |
-| <sub>🏆 **1000 Commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 13 days<br>☕ contribs: 775
+| <sub>🏆 **1000 commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 13 days<br>☕ contribs: 775
 
-<br><br><br><br><br>
+<br><br>
+**things i wanna learn rn** <br> <sup> `(at least the basics tho)`
+- [ ] `github graphql api`
+- [ ] `deploy on vercel  `
+- [ ] `bash command sed  `
+- [ ] `bash command jq   ` 
+- [ ] `regex patterns    ` 
+
+<br><br><br>
+
 ## Latest Projects
 
 **The After Series** <br>
-<sup>`stuffs made using only my phone.`
+<sup>`(stuffs made using only my phone)`
 
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
 [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterGit)
@@ -30,8 +39,7 @@ ___
 [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 
 **College Project** <br>
-<sup>`terminal based game on java.
-published when i was 1st year.`
+<sup>`(our 1st year java game)`
 
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
