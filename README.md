@@ -4,7 +4,7 @@
 ***lowercase madness >:D***
 
 > today's random text: <br>
-> `im going to reach 800 contributions soon :0`
+> `🎉100th commits on AfterRun`
 
 <br>
 
