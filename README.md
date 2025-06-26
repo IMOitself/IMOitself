@@ -4,7 +4,7 @@
 ***lowercase madness >:D***
 
 > today's random text: <br>
-> `in Japan, u go through puberty at age 4`
+> `reached 500+ lines today on AfterGit :0`
 
 <br>
 
