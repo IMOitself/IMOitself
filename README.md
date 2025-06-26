@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***german film 'Extraterritorial' is nuts :0***
+***no vibe coding pls >:D***
 
 ___
 
@@ -22,8 +22,8 @@ ___
 **things i wanna learn rn** <br> <sup> `(at least the basics tho)`
 - [ ] `github graphql api`
 - [ ] `deploy on vercel  `
-- [ ] `bash command sed  `
-- [ ] `bash command jq   ` 
+- [ ] `bash command jq   `
+- [ ] `all bash syntaxes ` 
 - [ ] `regex patterns    ` 
 
 <br><br><br>
