@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***no vibe coding pls >:D***
+***i simp for Emma Stone :D***
 
 ___
 
@@ -28,20 +28,15 @@ ___
 
 <br><br><br>
 
-## Latest Projects
-
-**The After Series** <br>
-<sup>`(stuffs made using only my phone)`
-
-[![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
-[![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterGit)
-[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
-[![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
-
-**College Project** <br>
-<sup>`(our 1st year java game)`
-
-[![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
+| Latest Projects                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **The After Series** <br><sup>`(stuffs made using only my phone)`                                                                                                              |
+| [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)         |
+| [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit)         |
+| [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)   |
+| [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild) |
+| **College Project** <br><sup>`(our 1st year java game)`                                                                                                                        |
+| [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam)   |
 
 <br>
 
