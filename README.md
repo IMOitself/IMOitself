@@ -4,7 +4,7 @@
 ***lowercase madness >:D***
 
 > today's random text: <br>
-> `🎉100th commits on AfterRun`
+> `german movie 'Extraterritorial' is nuts :0`
 
 <br>
 
