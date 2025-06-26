@@ -21,23 +21,17 @@ ___
 <br><br><br><br><br>
 ## Latest Projects
 
-**The After Series**
-
-<sub>apps made using only my phone.
-<br> These will help me build bigger apps in the future.</sub>
+**The After Series** <br>
+<sup>`stuffs made using only my phone.`
 
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterRun)
-
 [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterGit)
-
 [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
-
 [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 
-**College Project**
-
-<sub> terminal based game on java.<br>
-published when i was 1st year. </sub>
+**College Project** <br>
+<sup>`terminal based game on java.
+published when i was 1st year.`
 
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true)](https://github.com/IMOitself/hunterexam)
 
