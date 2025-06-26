@@ -1,10 +1,11 @@
 <div align="center">
 <br>
-  
-***lowercase madness >:D***
 
-> today's random text: <br>
-> `german movie 'Extraterritorial' is nuts :0`
+<sub>**today's random text:**
+
+***german movie 'Extraterritorial' is nuts :0***
+
+___
 
 <br>
 
@@ -15,7 +16,7 @@
 
 | Goals                                                      | Stats                                    |
 | :--------------------------------------------------------- | :--------------------------------------- |
-| <sub>🏆 **1000 Commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 13 days<br>☕ contribs: 770
+| <sub>🏆 **1000 Commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 13 days<br>☕ contribs: 768
 
 <br><br><br><br><br>
 ## Latest Projects
