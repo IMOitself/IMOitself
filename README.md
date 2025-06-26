@@ -31,6 +31,8 @@
 
 [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 
+[![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true)](https://github.com/IMOitself/AfterBuild)
+
 **College Project**
 
 <sub> terminal based game on java.<br>
