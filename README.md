@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***german movie 'Extraterritorial' is nuts :0***
+***german film 'Extraterritorial' is nuts :0***
 
 ___
 
