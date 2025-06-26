@@ -4,7 +4,7 @@
 ***lowercase madness >:D***
 
 > today's random text: <br>
-> `reached 500+ lines today on AfterGit :0`
+> `im going to reach 800 contributions soon :0`
 
 <br>
 
