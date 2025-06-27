@@ -16,7 +16,7 @@ ___
 
 | goals                                                      | stats                                    |
 | :--------------------------------------------------------- | :--------------------------------------- |
-| <sub>🏆 **1000 commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 14 days<br>☕ contribs: 799
+| <sub>🏆 **1000 commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 14 days<br>☕ contribs: 800
 
 <br><br>
 **things i wanna learn rn** <br> <sup> `(at least the basics tho)`
