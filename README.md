@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***i simp for Emma Stone :D***
+***its friday and no squid games yet :(***
 
 ___
 
