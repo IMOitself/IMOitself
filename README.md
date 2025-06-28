@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***squid game s3 in one sitting >:D***
+***idk what to put here today***
 
 ___
 
