@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***addicted to progress >:D***
+***releases AfterGit today:D***
 
 ___
 
