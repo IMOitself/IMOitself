@@ -20,11 +20,8 @@ ___
 
 <br><br>
 **things i wanna learn rn** <br> <sup> `(at least the basics tho)`
-- [ ] `github graphql api`
-- [ ] `deploy on vercel  `
-- [ ] `bash command jq   `
-- [ ] `all bash syntaxes ` 
-- [ ] `regex patterns    ` 
+- [ ] `aide to android studio`
+- [ ] `github graphql objects`
 
 <br><br><br>
 
