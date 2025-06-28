@@ -3,8 +3,7 @@
 
 <sub>**today's random text:**
 
-***AI cant replace devs <br>
-just like how calculators replace math teachers :)***
+***addicted to progress >:D***
 
 ___
 
