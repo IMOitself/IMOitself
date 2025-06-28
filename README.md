@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***releases AfterGit today:D***
+***ofc i dont make sense :D***
 
 ___
 
