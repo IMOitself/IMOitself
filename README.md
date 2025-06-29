@@ -29,6 +29,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **The After Series** <br><sup>`(stuffs made using only my phone)`                                                                                                              |
 | [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterRun)         |
+| [![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)         |
 | [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit)         |
 | [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterBuild)   |
 | [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterBuild) |
