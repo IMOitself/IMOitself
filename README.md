@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***ofc i dont make sense :D***
+***hobbyist :D***
 
 ___
 
