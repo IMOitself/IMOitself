@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***its already july somehow :D***
+***i recommend u watch <br> Takopii's Original Sin on Netflix :D***
 
 ___
 
