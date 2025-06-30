@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***end of june today. <br> imma prep a new project for july :D***
+***its already july somehow :D***
 
 ___
 
@@ -16,18 +16,24 @@ ___
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 daily streak: 17 days
-❤️ total contributions: 905
+🔥 daily streak: 17
+❤️ total contributions: 902
 
 <br><br>
-**goals** <br><sub> `(project must be at least released :D)`
-- [ ] `🏆 1000 commits        `
-- [x] ~~`💡 git client          `~~
-- [ ] `📜 repo subfolder sync `
-- [ ] `📃 readme updater      `
-- [ ] `🥚 text editor         `
-- [ ] `🐤 code editor         `
-- [ ] `👀 my dress up darling `
+**goals**
+- [ ] `🎯 1000 contributions  `
+- [ ] `🎯 1000 commits        `
+- [ ] `🎯 starstruck badge    `
+- [ ] `🎯 readme updater (WIP)`
+- [ ] `🎯 repo syncer         `
+- [ ] `🎯 text editor         `
+- [ ] `🎯 code editor         `
+- [ ] `🎯 my dress up darling `
+
+<br>
+
+**completed**
+- [x] `🏆 git client          `
 
 <br><br><br>
 
