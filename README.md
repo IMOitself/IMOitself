@@ -19,11 +19,15 @@ ___
 | 🔥 streak: 17 days<br>☕ contribs: 852
 
 <br><br>
-**goals** <br>
+**goals** <br><sub> `(project must be at least released :D)`
 - [ ] `🏆 1000 commits        `
+- [x] ~~`💡 git client          `~~
+- [ ] `📜 repo subfolder sync `
+- [ ] `📃 readme updater      `
 - [ ] `🥚 text editor         `
 - [ ] `🐤 code editor         `
-- [ ] `📺 my dress up dariling`
+- [ ] `🔪 finish watching     `<br>
+      `   my dress up dariling`
 
 <br><br><br>
 
