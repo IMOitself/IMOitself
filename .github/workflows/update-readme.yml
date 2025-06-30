@@ -23,8 +23,8 @@ jobs:
           # Make sure to change this to your GitHub username
           USERNAME: IMOitself
         run: |
-          echo "$USERNAME" > sensitive-info.txt
-          echo "$GH_PAT" >> sensitive-info.txt
+          echo "$USERNAME" > .github/workflows/AfterReadme/sensitive-info.txt
+          echo "$GH_PAT" >> .github/workflows/AfterReadme/sensitive-info.txt
           bash .github/workflows/AfterReadme/readme-updater.sh
             
       - name: Check for staged changes
