@@ -16,8 +16,8 @@ ___
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 daily streak: 17
-❤️ total contributions: 902
+🔥 daily streak: 17 days
+❤️ total contributions: 906
 
 <br><br>
 **goals**
