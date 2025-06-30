@@ -16,8 +16,8 @@ ___
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 daily streak: 17 days
-❤️ total contributions: 909
+🔥 daily streak: cant update rn
+❤️ total contributions: cant update rn
 
 <br><br>
 **goals**
