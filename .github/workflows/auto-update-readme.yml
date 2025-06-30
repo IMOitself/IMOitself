@@ -1,0 +1,17 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  call-reusable-workflow:
+    uses: IMOitself/AfterReadme/.github/workflows/update-readme.yml@main
+    with:
+      username: 'IMOitself'
+    secrets:
+      GH_PAT: ${{ secrets.GH_PAT }}

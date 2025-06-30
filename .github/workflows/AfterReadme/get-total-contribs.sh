@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GITHUB_USERNAME=$(sed -n '1p' .github/workflows/AfterReadme/sensitive-info.txt)
-GITHUB_TOKEN=$(sed -n '2p' .github/workflows/AfterReadme/sensitive-info.txt)
+GITHUB_USERNAME="$USERNAME"
+GITHUB_TOKEN="$GH_PAT"
 
 get_json_from_graphql() {
   local graphql=$1

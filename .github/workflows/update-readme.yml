@@ -1,13 +1,25 @@
 name: AfterReadme
 
 on:
-  push:
-  schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allows for manual triggering
+  workflow_call:
+    inputs:
+      username:
+        description: 'The GitHub username to calculate the contribution streak for.'
+        required: true
+        type: string
+      commit_message:
+        description: 'The commit message to use when updating the README.'
+        required: false
+        type: string
+        default: 'chore(bot): Update README'
+
+    secrets:
+      GH_PAT:
+        description: 'A Personal Access Token (PAT) with repo scope to commit changes.'
+        required: true
 
 jobs:
-  update-streak:
+  update-readme-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,34 +27,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Calculate Contribution Streak
-        id: get_streak
+
+      - name: Update README with Streak Stats
         env:
+          USERNAME: ${{ inputs.username }}
           GH_PAT: ${{ secrets.GH_PAT }}
-          # Make sure to change this to your GitHub username
-          USERNAME: IMOitself
         run: |
-          echo "$USERNAME" > .github/workflows/AfterReadme/sensitive-info.txt
-          echo "$GH_PAT" >> .github/workflows/AfterReadme/sensitive-info.txt
-          bash .github/workflows/AfterReadme/readme-updater.sh
-            
-      - name: Check for staged changes
-        id: check_changes
-        run: |
-          git add .
-          if git diff --staged --quiet; then
-            echo "no_changes=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "no_changes=false" >> "$GITHUB_OUTPUT"
-          fi
+          chmod +x .github/workflows/AfterReadme/get-daily-streak.sh
           
+          bash .github/workflows/AfterReadme/get-daily-streak.sh
+
       - name: Commit and push changes
-        if: steps.check_changes.outputs.no_changes == 'false'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore AfterReadme: Update README.md stats"
+          commit_message: ${{ inputs.commit_message }}
           file_pattern: README.md
           commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
