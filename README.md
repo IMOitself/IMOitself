@@ -3,7 +3,7 @@
 
 <sub>**today's random text:**
 
-***idk what to put here today hmmm***
+***end of june today. <br> imma prep a new project for july :D***
 
 ___
 
