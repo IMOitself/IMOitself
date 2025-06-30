@@ -16,7 +16,7 @@ ___
 
 | stats                                    |
 | :--------------------------------------- |
-| 🔥 streak: 17 days<br>☕ contribs: 855
+| 🔥 streak: 17 days<br>☕ contribs: 856
 
 <br><br>
 **goals** <br><sub> `(project must be at least released :D)`
