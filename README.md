@@ -16,7 +16,8 @@ ___
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 streak: 0
+🔥 streak: 999 days
+❤️ total contribution: 999
 
 <br><br>
 **goals** <br><sub> `(project must be at least released :D)`
