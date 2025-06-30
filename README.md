@@ -16,7 +16,7 @@ ___
 
 | stats                                    |
 | :--------------------------------------- |
-| <sub>🔥 streak: 17 days<br>☕ contribs: 851
+| 🔥 streak: 17 days<br>☕ contribs: 851
 
 <br><br>
 **goals** <br>
@@ -39,7 +39,5 @@ ___
 | [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/hunterexam)   |
 
 <br>
-
-![Last Commit](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=flat_square)
 
 </div>
