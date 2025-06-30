@@ -1,0 +1,48 @@
+name: AfterReadme
+
+on:
+  push:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows for manual triggering
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Calculate Contribution Streak
+        id: get_streak
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          # Make sure to change this to your GitHub username
+          USERNAME: IMOitself
+        run: |
+          echo "$USERNAME" > sensitive-info.txt
+          echo "$GH_PAT" >> sensitive-info.txt
+          bash .github/workflows/AfterReadme/readme-updater.sh
+            
+      - name: Check for staged changes
+        id: check_changes
+        run: |
+          git add .
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.no_changes == 'false'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore AfterReadme: Update README.md stats"
+          file_pattern: README.md
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
