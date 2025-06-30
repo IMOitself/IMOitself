@@ -16,8 +16,8 @@ ___
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 streak: 0
-❤️ total contribution: null
+🔥 streak: 17
+❤️ total contribution: 886
 
 <br><br>
 **goals** <br><sub> `(project must be at least released :D)`
