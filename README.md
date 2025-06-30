@@ -26,8 +26,7 @@ ___
 - [ ] `📃 readme updater      `
 - [ ] `🥚 text editor         `
 - [ ] `🐤 code editor         `
-- [ ] `🔪 finish watching     `<br>
-      `   my dress up darling `
+- [ ] `👀 my dress up darling `
 
 <br><br><br>
 
