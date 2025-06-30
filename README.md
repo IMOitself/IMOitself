@@ -27,7 +27,7 @@ ___
 - [ ] `🥚 text editor         `
 - [ ] `🐤 code editor         `
 - [ ] `🔪 finish watching     `<br>
-      `   my dress up dariling`
+      `   my dress up darling`
 
 <br><br><br>
 
