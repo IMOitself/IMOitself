@@ -14,14 +14,16 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&theme=nord&no-frame=true&title=Commits,Repositories&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
-| goals                                                      | stats                                    |
-| :--------------------------------------------------------- | :--------------------------------------- |
-| <sub>🏆 **1000 commits**<br>🥚 **text editor**<br>🐤 **code editor**<br>🔪 **finish cyberpunk**</sub> | <sub>🔥 streak: 17 days<br>☕ contribs: 850
+| stats                                    |
+| :--------------------------------------- |
+| <sub>🔥 streak: 17 days<br>☕ contribs: 850
 
 <br><br>
-**things i wanna learn rn** <br> <sup> `(at least the basics tho)`
-- [ ] `aide to android studio`
-- [ ] `github graphql objects`
+**goals** <br>
+- [ ] `🏆 1000 commits        `
+- [ ] `🥚 text editor         `
+- [ ] `🐤 code editor         `
+- [ ] `📺 my dress up dariling`
 
 <br><br><br>
 
