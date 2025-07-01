@@ -24,6 +24,8 @@ ___
 
 | L A T E S T |
 | ----- |
+**The Idk** <sup>✨
+<sup>`title work in progress :D`
 **The After Series**
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterRun)
 [![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
