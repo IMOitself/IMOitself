@@ -53,14 +53,10 @@ ___
 
 | light |
 | :---: |
-`🎯 learn bash grep      `
-`🎯 learn bash sed       `
-`🎯 learn bash cat & tac `
-`🎯 learn bash seq       `
-`🎯 learn bash jq        `
-`🎯 learn to sync 2 repos`
-`🎯 1000 contributions  `
-`🎯 1000 commits        `
-`🎯 starstruck badge    `
+`🎯 start studying bash  `
+`🎯 start to sync 2 repos`
+`🎯 1000 contributions   `
+`🎯 1000 commits         `
+`🎯 starstruck badge     `
 
 </div>
