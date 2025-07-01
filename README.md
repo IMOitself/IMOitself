@@ -35,7 +35,10 @@ ___
 
 <br><br><br>
 
-**goals**
+**G O A L S**
+
+<br>
+
 | heavy |
 | :---: |
 `✅ git client       ` <sub>[🔗](https://github.com/IMOitself/AfterGit-Official)
