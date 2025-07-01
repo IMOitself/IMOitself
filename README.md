@@ -19,21 +19,6 @@ ___
 🔥 daily streak: 18 days
 ❤️ total contributions: 939
 
-<br><br>
-**goals**
-- [ ] `🎯 1000 contributions  `
-- [ ] `🎯 1000 commits        `
-- [ ] `🎯 starstruck badge    `
-- [ ] `🎯 readme updater (WIP)`
-- [ ] `🎯 repo syncer         `
-- [ ] `🎯 text editor         `
-- [ ] `🎯 code editor         `
-- [ ] `🎯 my dress up darling `
-
-<br>
-
-**completed**
-- [x] `🏆 git client          `
 
 <br><br><br>
 
@@ -48,6 +33,31 @@ ___
 | **College Project** <br><sup>`(our 1st year java and mysql game)`                                                                                                                        |
 | [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/hunterexam)   |
 
+<br><br><br>
+
+**goals**
+| heavy |
+| :---: |
+`✅ git client       ` <sub>[🔗](https://github.com/IMOitself/AfterGit-Official)
+`🎯 readme updater   ` <sub>[🔗](https://github.com/IMOitself/AfterReadme)
+`🎯 repo syncer         `
+`🎯 text editor         `
+`🎯 code editor         `
+`🎯 my dress up darling `
+
+
 <br>
+
+| light |
+| :---: |
+`🎯 learn bash grep      `
+`🎯 learn bash sed       `
+`🎯 learn bash cat & tac `
+`🎯 learn bash seq       `
+`🎯 learn bash jq        `
+`🎯 learn to sync 2 repos`
+`🎯 1000 contributions  `
+`🎯 1000 commits        `
+`🎯 starstruck badge    `
 
 </div>
