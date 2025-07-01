@@ -17,7 +17,7 @@ ___
 | S T A T S |
 | :-------: |
 🔥 daily streak: 18 days
-❤️ contributions: 0 total
+❤️ contributions: 966 total
 
 
 <br><br><br>
