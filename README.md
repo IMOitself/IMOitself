@@ -44,6 +44,7 @@ ___
 `✅ git client       ` <sub>[`🔗`](https://github.com/IMOitself/AfterGit-Official)
 `🎯 readme updater   ` <sub>[`🔗`](https://github.com/IMOitself/AfterReadme)
 `🎯 repo syncer         `
+`🎯 get AIDE editor view`
 `🎯 text editor         `
 `🎯 code editor         `
 `🎯 my dress up darling `
