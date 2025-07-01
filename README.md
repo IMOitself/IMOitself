@@ -1,10 +1,12 @@
 <div align="center">
 <br>
 
-<sub>**today's random text:**
-
 ***i recommend u watch <br> Takopii's Original Sin on Netflix :D***
 
+<br>
+
+<sup>**random text appear here everyday.**
+  
 ___
 
 <br>
