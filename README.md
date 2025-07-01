@@ -3,8 +3,6 @@
 
 ***good in theory, bad on paper :D***
 
-<br>
-
 <sup>*random text appear here everyday.*
   
 ___
