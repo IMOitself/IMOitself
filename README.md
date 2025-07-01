@@ -44,7 +44,7 @@ ___
 | [![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)         |
 | [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit)         |
 | [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterBuild)   |
-| [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterBuild) |
+| [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterReadme) |
 | **College Project** <br><sup>`(our 1st year java and mysql game)`                                                                                                                        |
 | [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/hunterexam)   |
 
