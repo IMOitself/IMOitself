@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-***i recommend u watch <br> Takopii's Original Sin on Netflix :D***
+***good in theory, bad on paper :D***
 
 <br>
 
@@ -43,8 +43,8 @@ ___
 
 | heavy |
 | :---: |
-`✅ git client       ` <sub>[🔗](https://github.com/IMOitself/AfterGit-Official)
-`🎯 readme updater   ` <sub>[🔗](https://github.com/IMOitself/AfterReadme)
+`✅ git client       ` <sub>[`🔗`](https://github.com/IMOitself/AfterGit-Official)
+`🎯 readme updater   ` <sub>[`🔗`](https://github.com/IMOitself/AfterReadme)
 `🎯 repo syncer         `
 `🎯 text editor         `
 `🎯 code editor         `
