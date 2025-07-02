@@ -89,6 +89,5 @@ jobs:
         with:
           commit_message: |
             docs: update daily streak
-
-            Co-authored-by: IMOaswell IMOaswell@users.noreply.github.com>
           file_pattern: README.md
+          commit_author: IMOaswell <IMOaswell@users.noreply.github.com>
