@@ -45,21 +45,21 @@ ___
 | heavy |
 | :---: |
 `✅ git client       ` <sub>[`🔗`](https://github.com/IMOitself/AfterGit-Official)
-`🎯 readme updater   ` <sub>[`🔗`](https://github.com/IMOitself/AfterReadme)
-`🎯 repo syncer         `
-`🎯 text editor         `
-`🎯 code editor         `
-`🎯 my dress up darling `
+`⬜ readme updater   ` <sub>[`🔗`](https://github.com/IMOitself/AfterReadme)
+`⬜ repo syncer         `
+`⬜ text editor         `
+`⬜ code editor         `
+`⬜ my dress up darling `
 
 
 <br>
 
 | light |
 | :---: |
-`🎯 start studying bash  `
-`🎯 start to sync 2 repos`
-`🎯 1000 contributions   `
-`🎯 1000 commits         `
-`🎯 starstruck badge     `
+`⬜ start studying bash  `
+`⬜ start to sync 2 repos`
+`⬜ 1000 contributions   `
+`⬜ 1000 commits         `
+`⬜ starstruck badge     `
 
 </div>
