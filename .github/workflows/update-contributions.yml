@@ -60,3 +60,6 @@ jobs:
         with:
           commit_message: |
             docs: update total contributions
+
+            Co-authored-by: IMOaswell IMOaswell@users.noreply.github.com>
+          file_pattern: README.md
