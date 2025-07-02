@@ -27,6 +27,7 @@ ___
 | ----- |
 **The Idk** <sup>✨
 <sup>`title work in progress :D`
+[![emojistats](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **The After Series**
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterRun)
 [![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
