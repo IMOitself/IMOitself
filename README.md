@@ -4,7 +4,7 @@
   
 <br>
   
-***🎉 1000 COMMITS!!***
+***🎉 1000 CONTRIBUTIONS!!***
   
 ___
 
