@@ -26,7 +26,6 @@ ___
 | L A T E S T |
 | :-----: |
 **July**
-[![subfoldersync-vibe](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=subfoldersync-vibe\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/subfoldersync-vibe)
 [![emojistats](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **June**
 [![After Run](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=github_dark_dimmed\&hide_border=true)](https://github.com/IMOitself/AfterRun)
@@ -47,7 +46,7 @@ ___
 | :---: |
 `✅ git client      `[`🔗`](https://github.com/IMOitself/AfterGit-Official)
 `⬜ readme updater  `[`🔗`](https://github.com/IMOitself/emojistats)
-`⬜ repo syncer         `
+`⬜ repo syncer     `[`🔗`](https://github.com/IMOitself/subfoldersync-vibe)
 `⬜ text editor         `
 `⬜ code editor         `
 `⬜ my dress up darling `
