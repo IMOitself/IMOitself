@@ -4,7 +4,7 @@
   
 <br>
   
-***sitting opposite the canvas, <br> for how many long it takes her*** <br> *`🎵 Painter - Aimee Carty`*
+***sitting opposite the canvas, <br> for how many long it takes her*** <br> [`🎵`](https://www.youtube.com/watch?v=3WleQRVGgCk&ab_channel=AimeeCarty)  `Painter - Aimee Carty`
   
 ___
 
