@@ -1,9 +1,10 @@
 <div align="center">
 <br>
-
-***good in theory, bad on paper :D***
-
-<sup>*random text appear here everyday.*
+<sup>today's text: 
+  
+<br>
+  
+***sitting opposite the canvas, <br> for how many long it takes her*** <br> *`🎵 Painter - Aimee Carty`*
   
 ___
 
