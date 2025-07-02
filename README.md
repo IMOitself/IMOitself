@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<sup>today's text: 
+<sup>J U L Y 2</sup>
   
 <br>
   
