@@ -59,7 +59,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: |
-            docs: update daily streak
+            docs: update total contributions
 
             Co-authored-by: IMOitself IMOitself@users.noreply.github.com>
           file_pattern: README.md
