@@ -44,8 +44,8 @@ ___
 
 | heavy |
 | :---: |
-`✅ git client       ` <sub>[`🔗`](https://github.com/IMOitself/AfterGit-Official)
-`⬜ readme updater   ` <sub>[`🔗`](https://github.com/IMOitself/emojistats)
+`✅ git client      `[`🔗`](https://github.com/IMOitself/AfterGit-Official)
+`⬜ readme updater  `[`🔗`](https://github.com/IMOitself/emojistats)
 `⬜ repo syncer         `
 `⬜ text editor         `
 `⬜ code editor         `
