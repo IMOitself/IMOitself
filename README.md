@@ -57,8 +57,8 @@ ___
 
 | light |
 | :---: |
-`⬜ start studying bash  `
-`⬜ start studying yml   `
+`✅ study github workflow`
+`⬜ study bash packages  `
 `⬜ start to sync 2 repos`
 `⬜ 1000 contributions   `
 `⬜ 1000 commits         `
