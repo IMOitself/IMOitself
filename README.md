@@ -4,7 +4,8 @@
   
 <br>
   
-***sitting opposite the canvas, <br> for how many long it takes her*** <br> [`🎵`](https://www.youtube.com/watch?v=3WleQRVGgCk&ab_channel=AimeeCarty)  `Painter - Aimee Carty`
+***sitting opposite the canvas, <br> for how many long it takes her*** <br> 
+<sub>[`🎵`](https://www.youtube.com/watch?v=3WleQRVGgCk&ab_channel=AimeeCarty)  `Painter - Aimee Carty`
   
 ___
 
@@ -56,12 +57,12 @@ ___
 
 | light |
 | :---: |
-`✅ study github workflow        `
-`✅ self host github-readme-stats`
-`⬜ study bash packages          `
-`⬜ start to sync 2 repos        `
-`⬜ 1000 contributions           `
-`⬜ 1000 commits                 `
-`⬜ starstruck badge             `
+`✅ study github workflow   `
+`✅ host github-readme-stats`
+`⬜ study bash packages     `
+`⬜ start to sync 2 repos   `
+`⬜ 1000 contributions      `
+`⬜ 1000 commits            `
+`⬜ starstruck badge        `
 
 </div>
