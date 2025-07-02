@@ -4,8 +4,7 @@
   
 <br>
   
-***sitting opposite the canvas, <br> for how many long it takes her*** <br> 
-<sub>[`🎵`](https://www.youtube.com/watch?v=3WleQRVGgCk&ab_channel=AimeeCarty)  `Painter - Aimee Carty`
+***🎉 1000 COMMITS!!***
   
 ___
 
@@ -19,7 +18,7 @@ ___
 | S T A T S |
 | :-------: |
 🔥 daily streak: 19 days
-❤️ contributions: 999 total
+❤️ contributions: 1000 total
 
 
 <br><br><br>
@@ -59,9 +58,9 @@ ___
 | :---: |
 `✅ study github workflow   `
 `✅ host github-readme-stats`
+`✅ 1000 contributions      ` 
 `⬜ study bash packages     `
 `⬜ start to sync 2 repos   `
-`⬜ 1000 contributions      `
 `⬜ 1000 commits            `
 `⬜ starstruck badge        `
 
