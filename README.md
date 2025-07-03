@@ -1,10 +1,12 @@
 <div align="center">
 <br>
-<sup>J U L Y 3</sup>
+<sup>J U L Y 4</sup>
   
 <br>
   
-***S rank trophy :0***
+***so you can be you <br>
+and i'll be the rest*** <br>
+<sub>[`🎵`](https://youtu.be/4t3IgrvlKMI?t=223)`2085 - AJR`
   
 ___
 
