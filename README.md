@@ -4,7 +4,7 @@
   
 <br>
   
-***achieved 86 contribs in a single day yesterday***
+***S rank trophy :0***
   
 ___
 
@@ -60,9 +60,9 @@ ___
 `✅ study github workflow   `
 `✅ host github-readme-stats`
 `✅ 1000 contributions      ` 
+`✅ 1000 commits (S Rank)   ` 
+`✅ start to sync 2 repos   ` 
 `⬜ study bash packages     `
-`⬜ start to sync 2 repos   `
-`⬜ 1000 commits            `
 `⬜ starstruck badge        `
 
 </div>
