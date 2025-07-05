@@ -4,8 +4,7 @@
   
 <br>
   
-***so you can be you <br>
-and i'll be the rest*** <br>
+***for 2 or 3 minutes then im gone*** <br>
 <sub>[`🎵`](https://youtu.be/4t3IgrvlKMI?t=223)`2085 - AJR`
   
 ___
