@@ -4,8 +4,9 @@
   
 <br>
   
-***for 2 or 3 minutes then im gone*** <br>
-<sub>[`🎵`](https://youtu.be/4t3IgrvlKMI?t=223)`2085 - AJR`
+***some call it laziness,<br>
+others insisted it was discipline*** <br>
+<sub>[`▶️`](https://youtu.be/_nuUtmhaUEc?t=398)`The Untold Story of Golang`
   
 ___
 
