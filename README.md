@@ -1,12 +1,11 @@
 <div align="center">
 <br>
-<sup>J U L Y 4</sup>
+<sup>J U L Y 5</sup>
   
 <br>
   
-***some call it laziness,<br>
-others insisted it was discipline*** <br>
-<sub>[`▶️`](https://youtu.be/_nuUtmhaUEc?t=398)`The Untold Story of Golang`
+***there's often big things hidden <br> in the little things we do*** <br>
+<sub>[`🎵`](https://youtu.be/4YEypDiRyS4)`one day you will fly too`
   
 ___
 
