@@ -1,11 +1,10 @@
 <div align="center">
 <br>
-<sup>J U L Y 5</sup>
+<sup>J U L Y 7</sup>
   
 <br>
   
-***there's often big things hidden <br> in the little things we do*** <br>
-<sub>[`🎵`](https://youtu.be/4YEypDiRyS4)`one day you will fly too`
+***i realized how useless i actually am*** <br>
   
 ___
 
