@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>J U L Y 7</sup>
+<sup>J U L Y 8</sup>
   
 <br>
   
-***i realized how useless i actually am*** <br>
+***i cure hiccups :D*** <br>
   
 ___
 
@@ -62,7 +62,7 @@ ___
 `✅ 1000 contributions      ` 
 `✅ 1000 commits (S Rank)   ` 
 `✅ start to sync 2 repos   ` 
-`⬜ study bash packages     `
+`✅ set termux/nvim for bash`
 `⬜ starstruck badge        `
 
 </div>
