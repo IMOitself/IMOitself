@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>J U L Y 9</sup>
+<sup>J U L Y 10</sup>
   
 <br>
   
-***long ahh day :D*** <br>
+***taking a break :D*** <br>
   
 ___
 
