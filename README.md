@@ -4,7 +4,7 @@
   
 <br>
   
-***lowercase :D*** <br>
+***i got burnout from shell script :D*** <br>
   
 ___
 
