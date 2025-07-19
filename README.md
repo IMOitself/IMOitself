@@ -15,12 +15,6 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IMOitself&column=2&no-frame=true&margin-w=8&title=Commits,Repositories&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) 
 
-| S T A T S |
-| :-------: |
-🔥 daily streak: 0 days
-❤️ contributions: 0 total
-
-
 <br><br><br>
 
 | L A T E S T |
