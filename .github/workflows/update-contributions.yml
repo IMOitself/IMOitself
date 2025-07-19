@@ -36,6 +36,9 @@ jobs:
             contributions=$(curl -s -H "Authorization: bearer $GH_PAT" -X POST -d "$query" https://api.github.com/graphql | jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
             total_contributions=$((total_contributions + contributions))
+            echo ""
+            echo $query
+            echo ""
           done
 
           echo "total_contributions=$total_contributions" >> $GITHUB_ENV
