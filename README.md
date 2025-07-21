@@ -20,6 +20,7 @@ ___
 | L A T E S T |
 | :-----: |
 **July**
+[![personal-npc-addon](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
 [![repo-missile](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
 [![emojistats](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **June**
