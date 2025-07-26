@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>J U L Y 13</sup>
+<sup>J U L Y 26</sup>
   
 <br>
   
-***i got burnout from shell script :D*** <br>
+***make it exist first :D*** <br>
   
 ___
 
