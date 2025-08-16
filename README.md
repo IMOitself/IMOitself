@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>J U L Y 26</sup>
+<sup>A U G 16</sup>
   
 <br>
   
-***make it exist first :D*** <br>
+***back :D*** <br>
   
 ___
 
@@ -20,17 +20,17 @@ ___
 | L A T E S T |
 | :-----: |
 **July**
-[![personal-npc-addon](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
-[![repo-missile](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
-[![emojistats](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
+[![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
+[![repo-missile](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
+[![emojistats](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **June**
-[![After Run](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)
-[![After Git Official](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
-[![After Git](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit)
-[![After Build](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
-[![After Readme](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterReadme)
+[![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)
+[![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
+[![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit)
+[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
+[![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterReadme)
 **May**
-[![Hunter Exam](https://github-readme-stats-imoitself.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
+[![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
 
 <br><br><br>
 
