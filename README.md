@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 16</sup>
+<sup>A U G 18</sup>
   
 <br>
   
-<h2> im back :D </h2>
+<h2> lowercase :D </h2>
 
 <br>
 
