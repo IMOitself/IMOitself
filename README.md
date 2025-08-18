@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 18</sup>
+<sup>A U G 19</sup>
   
 <br>
   
-<h2> lowercase :D </h2>
+<h2> Trigger - Netflix </h2>
 
 <br>
 
