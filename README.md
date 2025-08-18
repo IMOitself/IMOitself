@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-| L A T E S T |
+| P R O J E C T S |
 | :-----: |
 **July**
 [![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
@@ -32,30 +32,24 @@
 
 <br><br><br>
 
-**G O A L S**
+**🌧️ AUGUST GOALS**
 
 <br>
 
 | heavy |
 | :---: |
-`✅ git client      `[`🔗`](https://github.com/IMOitself/AfterGit-Official)
-`⬜ readme updater  `[`🔗`](https://github.com/IMOitself/emojistats)
-`⬜ repo syncer     `[`🔗`](https://github.com/IMOitself/subfoldersync-vibe)
 `⬜ text editor         `
 `⬜ code editor         `
-`⬜ my dress up darling `
+`⬜ darling in the franx`
 
 
 <br>
 
 | light |
 | :---: |
-`✅ study github workflow   `
-`✅ host github-readme-stats`
-`✅ 1000 contributions      ` 
-`✅ 1000 commits (S Rank)   ` 
-`✅ start to sync 2 repos   ` 
-`✅ set termux/nvim for bash`
 `⬜ starstruck badge        `
+`⬜ relearn github graphql  `
+`⬜ use android home widgets`
+`⬜ finish a series         `
 
 </div>
