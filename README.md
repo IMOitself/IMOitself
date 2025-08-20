@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 19</sup>
+<sup>A U G 20</sup>
   
 <br>
   
-<h2> Trigger - Netflix </h2>
+<h4> james gunn's superman is cheesy, <br> but never cringe <br> ⭐10/10</h4>
 
 <br>
 
@@ -47,9 +47,9 @@
 
 | light |
 | :---: |
+`✅ finish a series - Trigger (2025)`
 `⬜ starstruck badge        `
 `⬜ relearn github graphql  `
 `⬜ use android home widgets`
-`⬜ finish a series         `
 
 </div>
