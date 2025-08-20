@@ -38,16 +38,17 @@
 
 | heavy |
 | :---: |
-`⬜ text editor         `
-`⬜ code editor         `
-`⬜ darling in the franx`
+`⬜ daily readme updater    `
+`⬜ text editor             `
+`⬜ code editor             `
+`⬜ darling in the franx    `
 
 
 <br>
 
 | light |
 | :---: |
-`✅ finish a series - Trigger (2025)`
+`✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
 `⬜ starstruck badge        `
 `⬜ relearn github graphql  `
 `⬜ use android home widgets`
