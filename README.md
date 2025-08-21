@@ -4,7 +4,7 @@
   
 <br>
   
-**for those we never meet** <br> <sup> `Mission Impossible: Final Reckoning`<br> ⭐10/10
+### **for those we never meet** <br> <sub> *Mission Impossible: Final Reckoning*<br> ⭐10/10
 
 <br>
 
