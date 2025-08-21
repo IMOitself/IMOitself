@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 20</sup>
+<sup>A U G 21</sup>
   
 <br>
   
-<h4> james gunn's superman is cheesy, <br> but never cringe <br> ⭐10/10</h4>
+**for those we never meet** <br> <sup> `Mission Impossible: Final Reckoning`<br> ⭐10/10
 
 <br>
 
