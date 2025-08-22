@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 21</sup>
+<sup>A U G 22</sup>
   
 <br>
   
-### **for those we never meet** <br> <sub> *Mission Impossible: Final Reckoning*<br> ⭐10/10
+## **back to square one, <br> i guess** 
 
 <br>
 
@@ -38,6 +38,7 @@
 
 | heavy |
 | :---: |
+`⬜ app project generator   `
 `⬜ daily readme updater    `
 `⬜ text editor             `
 `⬜ code editor             `
