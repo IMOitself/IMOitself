@@ -11,7 +11,7 @@
 [![Old Account - @IMOaswell](https://img.shields.io/badge/IMOaswell-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-[![🏆loading trophies...](https://github-profile-trophy.vercel.app/?username=IMOitself&column=4&no-frame=true&margin-w=8&title=Commits,Repositories,Stars,Followers&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) 
+[![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&column=4&no-frame=true&margin-w=8&title=Commits,Repositories,Stars,Followers&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
 <br><br><br>
 
