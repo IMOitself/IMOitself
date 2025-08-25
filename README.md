@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 23</sup>
+<sup>A U G 26</sup>
   
 <br>
   
-## **back to square one, <br> i guess** 
+## **once u learn the lesson, <br> the lesson will stop showing up** 
 
 <br>
 
