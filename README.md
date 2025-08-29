@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 26</sup>
+<sup>A U G 29</sup>
   
 <br>
   
-## **once u learn the lesson, <br> the lesson will stop showing up** 
+## **meaningless things takes meaningful time** 
 
 <br>
 
