@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 29</sup>
+<sup>A U G 31</sup>
   
 <br>
   
-## **meaningless things takes meaningful time** 
+## **september should be different** 
 
 <br>
 
