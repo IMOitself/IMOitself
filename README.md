@@ -46,10 +46,6 @@
 
 <br>
 
-<sup> `• unchecked goals with '🔗' means its now in progress:D`
-
-<br>
-
 | light |
 | :---: |
 `✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
