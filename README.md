@@ -22,10 +22,10 @@
 [![repo-missile](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
 [![emojistats](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **June**
+[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)
 [![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
 [![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit)
-[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 [![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterReadme)
 **May**
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
@@ -38,12 +38,15 @@
 
 | heavy |
 | :---: |
-`⬜ app project generator   `
+`⬜ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
 `⬜ daily readme updater    `
 `⬜ text editor             `
 `⬜ code editor             `
 `⬜ darling in the franx    `
 
+<br>
+
+<sup> `• unchecked goals with '🔗' means its now in progress:D`
 
 <br>
 
@@ -51,7 +54,7 @@
 | :---: |
 `✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
 `⬜ starstruck badge        `
-`⬜ relearn github graphql  `
-`⬜ use android home widgets`
+`⬜ use graphql api again   `
+`⬜ use home widgets again  `
 
 </div>
