@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 1</sup>
+<sup>S E P 2</sup>
   
 <br>
-  
-## **september will be different** 
+
+## **september must be different** 
 
 <br>
 
@@ -17,6 +17,8 @@
 
 | P R O J E C T S |
 | :-----: |
+**September**
+[![project-generator](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=project-generator\&theme=nord\&hide_border=true)](https://github.com/IMOitself/project-generator)
 **July**
 [![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
 [![repo-missile](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
