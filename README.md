@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>A U G 31</sup>
+<sup>S E P 1</sup>
   
 <br>
   
-## **september should be different** 
+## **september will be different** 
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <br><br><br>
 
-**🌧️ AUGUST GOALS**
+**🍎 SEPTEMBER GOALS**
 
 <br>
 
