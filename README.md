@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 2</sup>
+<sup>S E P 3</sup>
   
 <br>
 
-## **september must be different** 
+## **even slow progress is a progress:D** 
 
 <br>
 
