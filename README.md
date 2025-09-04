@@ -4,7 +4,7 @@
   
 <br>
 
-**I wonder if you know, <br> how they live in Tokyo..** <br> <sup> `🎵 Tokyo Drift`
+## **I wonder if you know, <br> how they live in Tokyo-** <br> <sub> `🎵 Tokyo Drift`
 
 <br>
 
