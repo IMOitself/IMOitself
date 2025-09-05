@@ -22,7 +22,7 @@
 | heavy |
 | :---: |
 `✅ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
-`⬜ readme updater app      `
+`⬜ readme updater app  `[`🔗`](https://github.com/IMOitself/readme-updater)
 `⬜ fastest text editor app `
 `⬜ darling in the franx    `
 
@@ -41,6 +41,7 @@
 | P R O J E C T S |
 | :-----: |
 **September**
+[![readme-updater](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=readme-updater\&theme=nord\&hide_border=true)](https://github.com/IMOitself/readme-updater)
 [![project-generator](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=project-generator\&theme=nord\&hide_border=true)](https://github.com/IMOitself/project-generator)
 **July**
 [![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
