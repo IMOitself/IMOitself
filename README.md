@@ -4,7 +4,7 @@
   
 <br>
 
-### **At the starting of the week, <br> at summit talks you'll hear them speak, <br> ' Its only Mondayy '** <br> <sub> `🎵 Six Days`
+#### **at the starting of the week, <br> at summit talks you'll hear them speak-** <br> <sub> `🎵 Six Days`
 
 <br>
 
