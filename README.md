@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-**🍎 SEPTEMBER GOALS**
+## **🍎 SEPTEMBER GOALS**
 
 <br>
 
