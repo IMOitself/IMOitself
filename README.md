@@ -32,7 +32,7 @@
 | :---: |
 `✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
 `⬜ finish a series 2       `
-`⬜ starstruck badge        `
+`⬜ 40 commits in just 1 day`
 `⬜ use graphql api again   `
 `⬜ use home widgets again  `
 
