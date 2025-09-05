@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<sup>S E P 6</sup>
+<sup>S E P 5</sup>
   
 <br>
 
@@ -12,6 +12,29 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWERS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,Stars,MultiLanguage&column=4&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+
+<br><br><br>
+
+**🍎 SEPTEMBER GOALS**
+
+<br>
+
+| heavy |
+| :---: |
+`✅ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
+`⬜ readme updater app      `
+`⬜ fastest text editor app `
+`⬜ darling in the franx    `
+
+<br>
+
+| light |
+| :---: |
+`✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
+`⬜ finish a series 2       `
+`⬜ starstruck badge        `
+`⬜ use graphql api again   `
+`⬜ use home widgets again  `
 
 <br><br><br>
 
@@ -33,26 +56,5 @@
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
 
 <br><br><br>
-
-**🍎 SEPTEMBER GOALS**
-
-<br>
-
-| heavy |
-| :---: |
-`⬜ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
-`⬜ daily readme updater    `
-`⬜ text editor             `
-`⬜ code editor             `
-`⬜ darling in the franx    `
-
-<br>
-
-| light |
-| :---: |
-`✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
-`⬜ starstruck badge        `
-`⬜ use graphql api again   `
-`⬜ use home widgets again  `
 
 </div>
