@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<sup>S E P 5</sup>
+<sup>S E P 6</sup>
   
 <br>
 
