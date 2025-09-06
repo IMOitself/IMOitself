@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 6</sup>
+<sup>S E P 7</sup>
   
 <br>
 
-#### **yknow what kind of plan never fails? <br> No plan. No plan at all.** <br> <sub> [`🎬 Parasite (2019)`](https://www.imdb.com/title/tt6751668/quotes/)
+## **Let all that you do be done in love**
 
 <br><br>
 
