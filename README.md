@@ -4,7 +4,7 @@
   
 <br>
 
-#### **at the starting of the week, <br> at summit talks you'll hear them speak-** <br> <sub> `🎵 Six Days`
+### **You know what kind of plan never fails? <br> No plan. No plan at all.** <br> <sub> [`🎬 Parasite (2019)`](https://www.imdb.com/title/tt6751668/quotes/)
 
 <br>
 
