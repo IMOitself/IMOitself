@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 8</sup>
+<sup>S E P 9</sup>
   
 <br>
 
-## **friendship means little when it's convenient.** <br> <sub> [`🎬 John Wick: Chapter 4`](https://m.imdb.com/title/tt10366206/quotes/)
+## **the law of four <br> who is 67?** <br> <sub> [`🎬 Shutter Island (2010)`](https://m.imdb.com/title/tt1130884)
 
 <br><br>
 
