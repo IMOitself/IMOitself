@@ -29,10 +29,9 @@
 | light |
 | :---: |
 `✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
+`✅ use home widgets again  ` 
 `⬜ finish a series 2       `
 `⬜ 40 commits in just 1 day`
-`⬜ use graphql api again   `
-`⬜ use home widgets again  `
 
 <br><br><br>
 
