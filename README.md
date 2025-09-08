@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 7</sup>
+<sup>S E P 8</sup>
   
 <br>
 
-## **Let all that you do be done in love**
+## **friendship means little when it's convenient.** <br> <sub> [`🎬 John Wick: Chapter 4`](https://m.imdb.com/title/tt10366206/quotes/)
 
 <br><br>
 
