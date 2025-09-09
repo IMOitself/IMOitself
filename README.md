@@ -4,7 +4,7 @@
   
 <br>
 
-## **the law of four <br> who is 67?** <br> <sub> [`🎬 Shutter Island (2010)`](https://m.imdb.com/title/tt1130884)
+## **the law of four, who is 67?** <br> <sub> [`🎬 Shutter Island (2010)`](https://m.imdb.com/title/tt1130884)
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
