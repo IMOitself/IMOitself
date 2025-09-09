@@ -8,6 +8,9 @@
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+
+<br>
+
 [![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
