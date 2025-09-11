@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 10</sup>
+<sup>S E P 11</sup>
   
 <br>
 
-## **Pray for the best, but prepare for the worst.** <br> <sub> [`🎬 Prisoners (2013)`](https://www.imdb.com/title/tt1392214)
+# 9/11
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
