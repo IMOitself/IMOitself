@@ -4,7 +4,7 @@
   
 <br>
 
-### master of one <br> vs <br> jack of all trade
+### People who fly into a rage always make a bad landing. <br><sub> `Will Rogers` 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
