@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 12</sup>
+<sup>S E P 13</sup>
   
 <br>
 
-### cant be a master of 2 at the same time, <br> always pick one
+### master of one <br> vs <br> jack of all trade
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
