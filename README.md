@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 15</sup>
+<sup>S E P 16</sup>
   
 <br>
 
-### mr mayor, i come here on a visit <br> and i am greeted with bombs! <br><sub> [`Archduke Ferdinand`](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)[`🎬`](https://www.imdb.com/title/tt6856242/)
+### Oh, not you. <br> We named the monkey Jack.<br><sub> [`Pirates of the Caribbean🎬`](https://m.imdb.com/title/tt0325980/)
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
