@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 13</sup>
+<sup>S E P 15</sup>
   
 <br>
 
-### People who fly into a rage always make a bad landing. <br><sub> `Will Rogers` 
+### mr mayor, i come here on a visit <br> and i am greeted with bombs! <br><sub> [`Archduke Ferdinand`](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)[`🎬`](https://www.imdb.com/title/tt6856242/)
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
