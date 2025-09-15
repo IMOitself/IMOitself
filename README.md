@@ -53,7 +53,7 @@
 **July**
 [![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
 [![repo-missile](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
-[![emojistats](https://github-readme-stats.vercel.app/api/pin/?sername=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
+[![emojistats](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
 **June**
 [![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
 [![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)
