@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 19</sup>
+<sup>S E P 21</sup>
   
 <br>
 
-### just watched 3 seasons of hermitcraft end
+## 17 hours of silksong
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
