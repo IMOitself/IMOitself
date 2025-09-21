@@ -13,9 +13,9 @@
 [![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 
-<br><br><br>
+<br><br>
 
-## **🍎 SEPTEMBER GOALS**
+### `🪡`<br>**SILKSONG SEPTEMBER**<br><sup>`G O A L S`
 
 <br>
 
@@ -23,8 +23,6 @@
 | :---: |
 `✅ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
 `⬜ readme updater app  `[`🔗`](https://github.com/IMOitself/readme-updater)
-`⬜ fastest text editor app `
-`⬜ darling in the franx    `
 
 <br>
 
@@ -32,8 +30,7 @@
 | :---: |
 `✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
 `✅ use home widgets again  ` 
-`⬜ finish a series 2       `
-`⬜ 40 commits in just 1 day`
+`⬜ 20 commits in just 1 day`
 
 <br><br><br>
 
