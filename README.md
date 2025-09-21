@@ -1,10 +1,11 @@
 <div align="center">
 <br>
-<sup>S E P 21</sup>
+<sup>S E P 22</sup>
   
 <br>
 
-## 17 hours of silksong
+### How much do you know about Davy Jones?<br><sub>[`🎬pirates of the caribbean 2`](https://m.imdb.com/title/tt0383574)
+
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
