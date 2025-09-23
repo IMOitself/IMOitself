@@ -66,6 +66,6 @@ ___
 **May**
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
 
-<br><br><br>
+<br>
 </details>
 </div>
