@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 23</sup>
+<sup>S E P 24</sup>
   
 <br>
 
-### 26 hours of silksong
+### do they know im-<br> do they know im black?<br><sub>[`🎬Get Out (2017)`](https://www.imdb.com/title/tt5052448)
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
@@ -38,7 +38,11 @@ ___
 `✅ use home widgets again  ` 
 `⬜ 20 commits in just 1 day`
 
-<br><br><br>
+<br>
+
+___
+
+<br>
 
 <details>
 <summary>
@@ -67,5 +71,6 @@ ___
 [![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
 
 <br>
+
 </details>
 </div>
