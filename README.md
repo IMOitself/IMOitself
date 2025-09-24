@@ -4,7 +4,7 @@
   
 <br>
 
-### do they know im-<br> do they know im black?<br><sub>[`🎬Get Out (2017)`](https://www.imdb.com/title/tt5052448)
+## Dying is the day worth living for.<br><sub>[`🎬Pirates of the Carribean 3`](https://www.imdb.com/title/tt0449088)
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
