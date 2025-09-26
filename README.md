@@ -4,7 +4,7 @@
   
 <br>
 
-## long ahh day
+## 🎵<br> Faridura Simanet<br>Donipuana Vorinet<br>Pinasami Mainiset<br>Dana Fonsiurova<br> 🎵 
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
