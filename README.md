@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>S E P 27</sup>
+<sup>O C T 1</sup>
   
 <br>
 
-## rest if u must, <br> but never quit
+## no songs about october ;-;
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
