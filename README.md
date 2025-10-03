@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<sup>O C T 1</sup>
+<sup>O C T 3</sup>
   
 <br>
 
