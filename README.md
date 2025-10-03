@@ -4,7 +4,7 @@
   
 <br>
 
-## but dont take forever, <br> ur not here for long
+## hoping to be productive 
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
@@ -19,22 +19,25 @@ ___
 
 
 
-### `🪡`<br>**SILKSONG SEPTEMBER**<br><sup>`G O A L S`
+### `🍊`<br>**OCTOBER**<br><sup>`G O A L S`
 
 <br>
 
 | heavy |
 | :---: |
-`✅ project generator   `[`🔗`](https://github.com/IMOitself/project-generator)
-`⬜ readme updater app  `[`🔗`](https://github.com/IMOitself/readme-updater)
+`soon                       ` 
 
 <br>
 
 | light |
 | :---: |
-`✅ finish a series     `[`🔗`](https://m.imdb.com/title/tt27898511/)
-`✅ use home widgets again  ` 
-`⬜ 20 commits in just 1 day`
+`soon                       ` 
+
+<br>
+
+| unfinished |
+| :---: |
+[`🔄`](https://github.com/IMOitself/readme-updater)` readme updater app      `
 
 <br>
 
@@ -51,8 +54,10 @@ ___
   
 </summary>
 
-| **September** |
+| **October** |
 | :-----: |
+`soon`
+**September**
 [![readme-updater](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=readme-updater\&theme=nord\&hide_border=true)](https://github.com/IMOitself/readme-updater)
 [![project-generator](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=project-generator\&theme=nord\&hide_border=true)](https://github.com/IMOitself/project-generator)
 **July**
