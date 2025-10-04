@@ -14,33 +14,9 @@
 
 <br>
 
-___
-
-
-
-### `🍊`<br>**OCTOBER**<br><sup>`G O A L S`
-
-<br>
-
-| heavy |
-| :---: |
-`soon                       ` 
-
-<br>
-
-| light |
-| :---: |
-`soon                       ` 
-
-<br>
-
-| unfinished |
+| 🍊 OCTOBER GOALS |
 | :---: |
 [`🔄`](https://github.com/IMOitself/readme-updater)` readme updater app      `
-
-<br>
-
-___
 
 <br>
 
