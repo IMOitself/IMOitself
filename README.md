@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>O C T 4</sup>
+<sup>O C T 5</sup>
   
 <br>
 
-## 40 hours of silksong
+#### something about <br>tina tamashiro and ella purnell
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
