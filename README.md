@@ -16,7 +16,7 @@
 
 | 🍊 OCTOBER GOALS |
 | :---: |
-[`🔄`](https://github.com/IMOitself/readme-updater)` readme updater app      `
+[`🔄70%`](https://github.com/IMOitself/readme-updater)` readme updater app   `
 
 <br>
 
