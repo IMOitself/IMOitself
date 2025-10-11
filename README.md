@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-<sup>O C T 10</sup>
+<sup>O C T 11</sup>
   
 <br>
 
-### <sup>55 hours of</sup><br>Hollow Knight: Sliksong
+## finally:D
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
