@@ -1,10 +1,11 @@
 <div align="center">
-<br>
-<sup>—— O C T 15 ——</sup>
-  
-<br>
 
-#### <sup>[`🎮COD MW2`](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2)</sup><br>out of all our vast array of nightmares, <br>this is the one we choose for ourselves.<br><sub>*`~ Cpt. Price`*
+![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
+<br><br>
+<sub>—— O C T 15 ——
+
+#### out of all our vast array of nightmares, <br>this is the one we choose for ourselves.<br><sub>*`~ Cpt. Price`*<br>[`Call of Duty MW2`](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2)
+
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
