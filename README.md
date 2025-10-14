@@ -1,10 +1,10 @@
 <div align="center">
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
-<br><br>
-<sub>—— O C T 15 ——
-
-#### out of all our vast array of nightmares, <br>this is the one we choose for ourselves.<br><sub>*`~ Cpt. Price`*<br>[`Call of Duty MW2`](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2)
+<br>
+| <sub>**—— O C T 15 ——** |
+| :---: |
+**out of all our vast array of nightmares, <br>this is the one we choose for ourselves.**<br><sub>*`~ Cpt. Price`*<br>[`[Call of Duty MW2]`](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2)
 
 
 <br><br>
