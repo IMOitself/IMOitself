@@ -1,9 +1,9 @@
 <div align="center">
 <br>
   
-| <sub>**—— O C T 15 ——** |
+| <sub>**—— O C T 17 ——** |
 | :---: |
-**out of all our vast array of nightmares, <br>this is the one we choose for ourselves.**<br><sub>*`~ Cpt. Price`*
+**Battledore**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
