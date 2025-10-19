@@ -1,9 +1,9 @@
 <div align="center">
 <br>
   
-| <sub>**—— O C T 17 ——** |
+| <sub>**—— O C T 18 ——** |
 | :---: |
-**Battledore**
+**you dont learn to swim <br>by reading about water**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
