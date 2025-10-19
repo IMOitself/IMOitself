@@ -25,7 +25,7 @@
 <details>
 <summary>
   
-| P R O J E C T S |
+| —————P R O J E C T S————— |
 | :-----: |
 `▫️▫️▫️`
   
