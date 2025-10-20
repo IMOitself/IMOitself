@@ -1,9 +1,9 @@
 <div align="center">
 <br>
   
-| <sub>**—— O C T 18 ——** |
+| <sub>**—— O C T 20 ——** |
 | :---: |
-**you dont learn to swim <br>by reading about water**
+**the leaves of a tree grows side by side. <br> but when they fall, they fall alone.<br><sub>*`predator: killer of killers`***
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
