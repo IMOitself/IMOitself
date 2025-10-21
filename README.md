@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-| <sub>**—— O C T 20 ——** |
+| <sub>**—— O C T 21 ——** |
 | :---: |
 **if u learn to be bored, <br> u may end up being happier<br><sub>[*`▶️ you need to be bored. here's why.`*](https://youtu.be/orQKfIXMiA8)**
 
