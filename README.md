@@ -3,7 +3,7 @@
   
 | <sub>**—— O C T 20 ——** |
 | :---: |
-**the leaves of a tree grows side by side. <br> but when they fall, they fall alone.<br><sub>*`predator: killer of killers`***
+**if u learn to be bored, <br> u may end up being happier<br><sub>[*`▶️ you need to be bored. here's why.`*](https://youtu.be/orQKfIXMiA8)**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
