@@ -24,7 +24,7 @@
 <details>
 <summary>
   
-| ———————P R O J E C T S——————— |
+| ——————P R O J E C T S—————— |
 | :-----: |
 `▫️▫️▫️`
   
@@ -32,22 +32,22 @@
 
 | **`🔔` **EARTHQUAKE OCTOBER**** |
 | :-----: |
-[![manga-printing](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=manga-printing\&theme=nord\&hide_border=true)](https://github.com/IMOitself/manga-printing)
+<a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
 **`🪡` **SILKSONG SEPTEMBER****
-[![readme-updater](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=readme-updater\&theme=nord\&hide_border=true)](https://github.com/IMOitself/readme-updater)
-[![project-generator](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=project-generator\&theme=nord\&hide_border=true)](https://github.com/IMOitself/project-generator)
+<a href="https://github.com/IMOitself/readme-updater"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=readme-updater&theme=nord&hide_border=true" alt="readme-updater"></a>
+<a href="https://github.com/IMOitself/project-generator"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=project-generator&theme=nord&hide_border=true" alt="project-generator"></a>
 **July**
-[![personal-npc-addon](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=personal-npc-addon\&theme=nord\&hide_border=true)](https://github.com/IMOitself/personal-npc-addon)
-[![repo-missile](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=repo-missile\&theme=nord\&hide_border=true)](https://github.com/IMOitself/repo-missile)
-[![emojistats](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=emojistats\&theme=nord\&hide_border=true)](https://github.com/IMOitself/emojistats)
+<a href="https://github.com/IMOitself/personal-npc-addon"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=personal-npc-addon&theme=nord&hide_border=true" alt="personal-npc-addon"></a>
+<a href="https://github.com/IMOitself/repo-missile"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=repo-missile&theme=nord&hide_border=true" alt="repo-missile"></a>
+<a href="https://github.com/IMOitself/emojistats"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=emojistats&theme=nord&hide_border=true" alt="emojistats"></a>
 **June**
-[![After Build](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterBuild\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterBuild)
-[![After Run](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterRun\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterRun)
-[![After Git Official](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit-Official\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit-Official)
-[![After Git](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterGit\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterGit)
-[![After Readme](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=AfterReadme\&theme=nord\&hide_border=true)](https://github.com/IMOitself/AfterReadme)
+<a href="https://github.com/IMOitself/AfterBuild"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&theme=nord&hide_border=true" alt="After Build"></a>
+<a href="https://github.com/IMOitself/AfterRun"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&theme=nord&hide_border=true" alt="After Run"></a>
+<a href="https://github.com/IMOitself/AfterGit-Official"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit-Official&theme=nord&hide_border=true" alt="After Git Official"></a>
+<a href="https://github.com/IMOitself/AfterGit"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true" alt="After Git"></a>
+<a href="https://github.com/IMOitself/AfterReadme"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true" alt="After Readme"></a>
 **May**
-[![Hunter Exam](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=HunterExam\&theme=nord\&hide_border=true)](https://github.com/IMOitself/hunterexam) <br><sup>`our 1st year java and mysql terminal game`
+<a href="https://github.com/IMOitself/hunterexam"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true" alt="Hunter Exam"></a> <br><sup>our 1st year java and mysql terminal game</sup>
 
 <br>
 
