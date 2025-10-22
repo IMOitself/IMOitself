@@ -1,9 +1,9 @@
 <div align="center">
 <br>
 
-| <sub>**—— O C T 23 ——** |
+| **—— O C T 23 ——** |
 | :---: |
-**just rediscovered this [legendary banned video](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0 <br><sub>-- o --**
+**just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0 <br><sub>-- o --**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
@@ -16,25 +16,24 @@
 
 <br>
 
-| 🍊 OCTOBER GOALS |
+| `🔔`<br>**EARTHQUAKE OCTOBER**<br><sup>`G O A L S` |
 | :---: |
-[`🔄70%`](https://github.com/IMOitself/readme-updater)` readme updater app   `
-
-<br>
+` readme updater app                      `<br>[`[██████████████████████░░░░░░░░░░] 70% `](https://github.com/IMOitself/readme-updater)
+` print all of onepunch-man season 3      `<br>[`[████████░░░░░░░░░░░░░░░░░░░░░░░░] 25% `](https://github.com/IMOitself/manga-printing)
 
 <details>
 <summary>
   
-| ————P R O J E C T S———— |
+| ———————P R O J E C T S——————— |
 | :-----: |
 `▫️▫️▫️`
   
 </summary>
 
-| **October** |
+| **`🔔` **EARTHQUAKE OCTOBER**** |
 | :-----: |
-`soon`
-**September**
+[![manga-printing](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=manga-printing\&theme=nord\&hide_border=true)](https://github.com/IMOitself/manga-printing)
+**`🪡` **SILKSONG SEPTEMBER****
 [![readme-updater](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=readme-updater\&theme=nord\&hide_border=true)](https://github.com/IMOitself/readme-updater)
 [![project-generator](https://github-readme-stats.vercel.app/api/pin/?username=IMOitself\&repo=project-generator\&theme=nord\&hide_border=true)](https://github.com/IMOitself/project-generator)
 **July**
