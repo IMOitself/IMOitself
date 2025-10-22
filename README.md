@@ -1,9 +1,9 @@
 <div align="center">
 <br>
   
-| <sub>**—— O C T 21 ——** |
+| <sub>**—— O C T 22 ——** |
 | :---: |
-**if u learn to be bored, <br> u may end up being happier<br><sub>[*`▶️ you need to be bored. here's why.`*](https://youtu.be/orQKfIXMiA8)**
+**i saw her in the rightest way,<br>looking like anne hathaway<br><sub>[*`🎵 Sailor Song`*](https://www.youtube.com/watch?v=zDKG9LhxjFQ)**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
@@ -25,7 +25,7 @@
 <details>
 <summary>
   
-| —————P R O J E C T S————— |
+| ————P R O J E C T S———— |
 | :-----: |
 `▫️▫️▫️`
   
