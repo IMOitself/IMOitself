@@ -3,7 +3,7 @@
 
 | **—— O C T 23 ——** |
 | :---: |
-**just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0 <br><sub>-- o --**
+## **just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0 <br><sub>-- o --**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
 
