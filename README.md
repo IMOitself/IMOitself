@@ -3,9 +3,9 @@
 
 | **—— O C T 23 ——** |
 | :---: |
-## **just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0 <br><sub>-- o --**
+## **just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0**
 
-![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=Changes%20on%20this%20Readme.md)
+![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
 <br><br>
 [![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
