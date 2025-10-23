@@ -19,7 +19,7 @@
 | `🔔`<br>**EARTHQUAKE OCTOBER**<br><sup>`G O A L S` |
 | :---: |
 ` readme updater app                      `<br>[`[██████████████████████░░░░░░░░░░] 70% `](https://github.com/IMOitself/readme-updater)
-` print all of onepunch-man season 3      `<br>[`[████████░░░░░░░░░░░░░░░░░░░░░░░░] 25% `](https://github.com/IMOitself/manga-printing)
+` print all of onepunch-man season 3      `<br>[`[█████████░░░░░░░░░░░░░░░░░░░░░░░] 28% `](https://github.com/IMOitself/manga-printing)
 
 <details>
 <summary>
