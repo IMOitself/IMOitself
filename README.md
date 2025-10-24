@@ -1,9 +1,10 @@
 <div align="center">
 <br>
 
-| **—— O C T 24 ——** |
+
+| **—— O C T 25 ——** |
 | :---: |
-### **there's this hidden world of design engineering, <br>so that when it all works, you'll never notice**
+### **hermitcraft XI in nov 8, <br> fallout season 2 in dec 17 <br><sub>`:D`**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
