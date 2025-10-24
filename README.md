@@ -1,9 +1,9 @@
 <div align="center">
 <br>
 
-| **—— O C T 23 ——** |
+| **—— O C T 24 ——** |
 | :---: |
-## **just rediscovered this [`legendary banned video`](https://ugetube.com/watch/how-to-print-and-bind-manga-book-or-comic-at-home-on-your-own-printer-manga-printing-tutorial_mvDt5NzU5j9bFIc.html) on youtube:0**
+### **there's this hidden world of design engineering, <br>so that when it all works, you'll never notice**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
