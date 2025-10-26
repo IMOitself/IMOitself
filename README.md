@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— O C T 25 ——** |
+| **—— O C T 26 ——** |
 | :---: |
-### **hermitcraft XI in november, <br> fallout season 2 in december<br><sub>`:D`**
+### **For there is a happy end to the man of peace.<br><sub>`:D`**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
