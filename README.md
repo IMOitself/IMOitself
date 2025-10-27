@@ -2,14 +2,14 @@
 <br>
 
 
-| **—— O C T 26 ——** |
+| **—— O C T 27 ——** |
 | :---: |
-### **For there is a happy end to the man of peace.<br><sub>`:D`**
+## **if only this movie is longer,<br>but nonetheless a S-tier <br><br><sub>`how to train your dragon 2`<br>`⭐8/10`**
 
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
 <br><br>
-[![🏆cant display trophies:(](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+[![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
 
 [![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
