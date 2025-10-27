@@ -11,9 +11,8 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
-[![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)<br>
-![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23100000&color=%23555555)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
+![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23555555&color=%23555555)
 
 <br>
 
@@ -53,4 +52,7 @@
 <br>
 
 </details>
+
+[![Old Account - @IMOaswell](https://img.shields.io/badge/Secret%20Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+
 </div>
