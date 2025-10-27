@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— O C T 27 ——** |
+| **—— O C T 28 ——** |
 | :---: |
-## **if only this movie is longer,<br>but nonetheless a S-tier <br><br><sub>`how to train your dragon 2`<br>`⭐8`**
+## **will change this text later<sub><br>`:D`**
 
 
 <br>
