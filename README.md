@@ -9,7 +9,7 @@
 ![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
 <br><br>
-[![🏆cant load trophies, click here to check status:D](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+[![🏆cant display trophies:(](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
 
 [![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
