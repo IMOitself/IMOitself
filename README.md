@@ -6,21 +6,21 @@
 | :---: |
 ## **if only this movie is longer,<br>but nonetheless a S-tier <br><br><sub>`how to train your dragon 2`<br>`⭐8/10`**
 
-![Changes on this README.md](https://img.shields.io/github/commit-activity/t/IMOitself/IMOitself/main?style=for-the-badge&label=TOTAL%20EDITS)
 
-<br><br>
+<br>
+
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
-
 [![Old Account - @IMOaswell](https://img.shields.io/badge/Second_Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)<br>
+![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23100000&color=%23555555)
 
 <br>
 
 | `🔔`<br>**EARTHQUAKE OCTOBER**<br><sup>`G O A L S` |
 | :---: |
-` readme updater app                      `<br>[`[██████████████████████░░░░░░░░░░] 70% `](https://github.com/IMOitself/readme-updater)
-` print all of onepunch-man season 3      `<br>[`[█████████░░░░░░░░░░░░░░░░░░░░░░░] 28% `](https://github.com/IMOitself/manga-printing)
+` home screen readme app [readme-updater] `<br>[`[██████████████████████████░░░░░░] 80% `](https://github.com/IMOitself/readme-updater)
+` make printable pdf of onepunch-man s3   `<br>[`[█████████░░░░░░░░░░░░░░░░░░░░░░░] 28% `](https://github.com/IMOitself/manga-printing)
 
 <details>
 <summary>
