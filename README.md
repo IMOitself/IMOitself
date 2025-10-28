@@ -4,7 +4,7 @@
 
 | **—— O C T 28 ——** |
 | :---: |
-## **will change this text later<sub><br>`:D`**
+## **solid ending to the best animated trilogies of all time<br><br><sub>`how to train your dragon: the hidden world`<br>`⭐9`**
 
 
 <br>
