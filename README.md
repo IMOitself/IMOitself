@@ -2,7 +2,7 @@
 <br>
 
 
-| **—— O C T 28 ——** |
+| **—— O C T 29 ——** |
 | :---: |
 ## **solid ending to the best animated trilogy of all time<br><br><sub>`how to train your dragon: the hidden world`<br>`⭐9`**
 
