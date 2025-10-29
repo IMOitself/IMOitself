@@ -2,7 +2,7 @@
 <br>
 
 
-| **—— O C T 29 ——**<br><sup>`30 days left` |
+| **—— O C T 29 ——**<br><sup>`30 DAYS LEFT` |
 | :---: |
 ## **solid ending to the best animated trilogy of all time<br><br><sub>`how to train your dragon: the hidden world`<br>`⭐9`**
 
@@ -32,6 +32,7 @@
 
 | **`🔔` **EARTHQUAKE OCTOBER**** |
 | :-----: |
+<a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="manga-printing"></a>
 <a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
 **`🪡` **SILKSONG SEPTEMBER****
 <a href="https://github.com/IMOitself/readme-updater"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=readme-updater&theme=nord&hide_border=true" alt="readme-updater"></a>
