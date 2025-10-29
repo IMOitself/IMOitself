@@ -18,8 +18,8 @@
 
 | `🔔`<br>**EARTHQUAKE OCTOBER**<br><sup>`G O A L S` |
 | :---: |
-` home screen readme app [readme-updater] `<br>[`[████████████████████████░░░] 90% `](https://github.com/IMOitself/readme-updater)
-` make printable pdf of onepunch-man s3   `<br>[`[████████░░░░░░░░░░░░░░░░░░░] 28% `](https://github.com/IMOitself/manga-printing)
+`home screen readme app`<br>[`[██████████████████████░░]90%`](https://github.com/IMOitself/readme-updater)
+`format manga of onepunch-man s3`<br>[`[███████░░░░░░░░░░░░░░░░░]28%`](https://github.com/IMOitself/manga-printing)
 
 <details>
 <summary>
