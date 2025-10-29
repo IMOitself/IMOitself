@@ -2,7 +2,7 @@
 <br>
 
 
-| **—— O C T 29 ——**<br><sup>`30 day challenge starts tommorow >:D` |
+| **—— O C T 29 ——**<br><sup>`30 day challenge soon >:D` |
 | :---: |
 ## **solid ending to the best animated trilogy of all time<br><br><sub>`how to train your dragon: the hidden world`<br>`⭐9`**
 
@@ -24,7 +24,7 @@
 <details>
 <summary>
   
-| ——————P R O J E C T S—————— |
+| ————P R O J E C T S———— |
 | :-----: |
 `▫️▫️▫️`
   
