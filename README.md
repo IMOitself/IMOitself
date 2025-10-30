@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— O C T 30 ——**<br><sup>`30 DAYS LEFT` |
+| **—— O C T 31 ——**<br><sup>`29 DAYS LEFT` |
 | :---: |
-## **30 days to build a text editor**
+## later
 
 
 <br>
