@@ -20,6 +20,7 @@
 | :---: |
 `home screen readme app`<br>[`[██████████████████████░░]90%`](https://github.com/IMOitself/readme-updater)
 `format manga of onepunch-man s3`<br>[`[███████░░░░░░░░░░░░░░░░░]28%`](https://github.com/IMOitself/manga-printing)
+`30 days of text editor`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░░]00%`](https://github.com/IMOitself/30-Days-Of-TextEditor)
 
 <details>
 <summary>
