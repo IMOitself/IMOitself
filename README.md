@@ -2,7 +2,7 @@
 <br>
 
 
-| **—— O C T 31 ——**<br><sup>`29 DAYS LEFT` |
+| **—— O C T 31 ——**<br><sup>`30 DAYS LEFT` |
 | :---: |
 ## later
 
