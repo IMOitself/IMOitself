@@ -4,7 +4,7 @@
 
 | **—— O C T 31 ——**<br><sup>`30 DAYS LEFT` |
 | :---: |
-## later
+## november should be productive >:D
 
 
 <br>
