@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 1 ——**<br><sup>`29 DAYS TO GO` |
+| **—— N O V 2 ——**<br><sup>`28 DAYS TO GO` |
 | :---: |
-## its november already
+### opportunity is missed by those who mistake it for hard work
 
 
 <br>
