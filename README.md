@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— O C T 31 ——**<br><sup>`30 DAYS LEFT` |
+| **—— N O V 1 ——**<br><sup>`29 DAYS TO GO` |
 | :---: |
-## november should be productive >:D
+## its november already
 
 
 <br>
@@ -16,11 +16,9 @@
 
 <br>
 
-| `🔔`<br>**EARTHQUAKE OCTOBER**<br><sup>`G O A L S` |
+| `🍁`<br>**NOVEMBER**<br><sup>`G O A L S` |
 | :---: |
-`home screen readme app`<br>[`[██████████████████████░░]90%`](https://github.com/IMOitself/readme-updater)
-`format manga of onepunch-man s3`<br>[`[███████░░░░░░░░░░░░░░░░░]28%`](https://github.com/IMOitself/manga-printing)
-`30 days of text editor`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░░]00%`](https://github.com/IMOitself/30-Days-Of-TextEditor)
+`30 days of text editor`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░░]00%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
 
 <details>
 <summary>
