@@ -16,7 +16,7 @@
 
 <br>
 
-| `🍁`<br>**NOVEMBER**<br><sup>`G O A L S` |
+| `🏴`<br>**NOVEMBER**<br><sup>`G O A L S` |
 | :---: |
 `30 days of text editor`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░░]00%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
 
