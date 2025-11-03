@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 2 ——**<br><sup>`28 DAYS TO GO` |
+| **—— N O V 3 ——**<br><sup>`27 DAYS TO GO` |
 | :---: |
-### opportunity is missed by those who mistake it for hard work
+### dont you notice how<br>I get quiet when there's no one else around. <br><sub>`🎵from the start - laufey`
 
 
 <br>
