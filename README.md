@@ -18,7 +18,7 @@
 
 | `🏴`<br>**NOVEMBER**<br><sup>`G O A L S` |
 | :---: |
-`30 days of text editor`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░░]00%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
+`30 days of text editor`<br>[`[███░░░░░░░░░░░░░░░░░░░░]13%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
 
 <details>
 <summary>
