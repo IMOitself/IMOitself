@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 3 ——**<br><sup>`27 DAYS TO GO` |
+| **—— N O V 5 ——**<br><sup>`25 DAYS TO GO` |
 | :---: |
-### dont you notice how<br>I get quiet when there's no one else around. <br><sub>`🎵from the start - laufey`
+### This skyscraper's causing vertigo<br> The countdown begins in Tokyo<br><sub>`🎵lover girl - laufey`
 
 
 <br>
