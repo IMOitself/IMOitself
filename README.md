@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 5 ——**<br><sup>`25 DAYS TO GO` |
+| **—— N O V 6 ——**<br><sup>`24 DAYS TO GO` |
 | :---: |
-### stop consuming knowledge, <br> start applying
+#### why bilbo baggins?<br> perhaps it is because im afraid,<br> and he gives me courage.<br><sub>[🎬the hobbit](https://m.imdb.com/title/tt0903624/)
 
 
 <br>
