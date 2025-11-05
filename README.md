@@ -16,7 +16,7 @@
 
 <br>
 
-| `🏴`<br>**NOVEMBER**<br><sup>`G O A L S` |
+| `❔`<br>**NOVEMBER**<br><sup>`G O A L S` |
 | :---: |
 `30 days of text editor`<br>[`[███░░░░░░░░░░░░░░░░░░░░]13%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
 
@@ -29,8 +29,10 @@
   
 </summary>
 
-| **`🔔` **EARTHQUAKE OCTOBER**** |
+| **`❔` **NOVEMBER**** |
 | :-----: |
+<a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="manga-printing"></a>
+**`🔔` **EARTHQUAKE OCTOBER****
 <a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="manga-printing"></a>
 <a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
 **`🪡` **SILKSONG SEPTEMBER****
@@ -47,7 +49,8 @@
 <a href="https://github.com/IMOitself/AfterGit"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&theme=nord&hide_border=true" alt="After Git"></a>
 <a href="https://github.com/IMOitself/AfterReadme"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true" alt="After Readme"></a>
 **May**
-<a href="https://github.com/IMOitself/hunterexam"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true" alt="Hunter Exam"></a> <br><sup>our 1st year java and mysql terminal game</sup>
+<a href="https://github.com/IMOitself/hunterexam"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true" alt="Hunter Exam"></a>
+<sup>some repos like school activities, experiments and projects from my old account are not included in this table.</sup>
 
 <br>
 
