@@ -4,7 +4,7 @@
 
 | **—— N O V 5 ——**<br><sup>`25 DAYS TO GO` |
 | :---: |
-### stop consuming knowledge, <br> start applying it
+### stop consuming knowledge, <br> start applying
 
 
 <br>
