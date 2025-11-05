@@ -4,7 +4,7 @@
 
 | **—— N O V 5 ——**<br><sup>`25 DAYS TO GO` |
 | :---: |
-### This skyscraper's causing vertigo<br> The countdown begins in Tokyo<br><sub>`🎵lover girl - laufey`
+### stop consuming knowledge, <br> start applying it
 
 
 <br>
