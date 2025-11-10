@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 9 ——**<br><sup>`21 DAYS TO GO` |
+| **—— N O V 10 ——**<br><sup>`20 DAYS TO GO` |
 | :---: |
-## cant lock in ;-;
+## distractions >:D
 
 
 <br>
