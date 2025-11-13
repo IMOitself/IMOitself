@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 11 ——**<br><sup>`19 DAYS TO GO` |
+| **—— N O V 13 ——**<br><sup>`18 DAYS TO GO` |
 | :---: |
-### they say, the best way to beat <br>game addiction is to play less :D<br><br>`play when you have time,`<br>`not when you feel like it.`
+### idk yet
 
 
 <br>
