@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 13 ——**<br><sup>`18 DAYS TO GO` |
+| **—— N O V 22 ——**<br><sup>`8 DAYS TO GO` |
 | :---: |
-### idk yet
+### i lost track:(
 
 
 <br>
