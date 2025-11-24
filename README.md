@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 22 ——**<br><sup>`8 DAYS TO GO` |
+| **—— N O V 24 ——**<br><sup>`6 DAYS TO GO` |
 | :---: |
-### i lost track:(
+### already november 24 wth
 
 
 <br>
