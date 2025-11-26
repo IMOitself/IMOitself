@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 24 ——**<br><sup>`6 DAYS TO GO` |
+| **—— N O V 26 ——**<br><sup>`4 DAYS TO GO` |
 | :---: |
-### already november 24 wth
+### and which of you by being anxious can add a cubit unto the measure of his life?
 
 
 <br>
