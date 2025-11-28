@@ -56,6 +56,6 @@
 
 </details>
 
-[![Old Account - @IMOaswell](https://img.shields.io/badge/Secret%20Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+[![Old Account - @IMOaswell](https://img.shields.io/badge/hidden%20account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 
 </div>
