@@ -16,7 +16,7 @@
 
 <br>
 
-| `❔`<br>**NOVEMBER**<br><sup>`G O A L S` |
+| `🗿`<br>**TWENTY NOVEMBER**<br><sup>`G O A L S` |
 | :---: |
 `30 days of text editor`<br>[`[███░░░░░░░░░░░░░░░░░░░░]13%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
 
@@ -25,11 +25,11 @@
   
 | ————P R O J E C T S———— |
 | :-----: |
-`See More...`
+`see more...`
   
 </summary>
 
-| **`❔` **NOVEMBER**** |
+| **`🗿` **TWENTY NOVEMBER**** |
 | :-----: |
 <a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="manga-printing"></a>
 **`🔔` **EARTHQUAKE OCTOBER****
