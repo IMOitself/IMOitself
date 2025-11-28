@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 26 ——**<br><sup>`4 DAYS TO GO` |
+| **—— N O V 29 ——**<br><sup>`🎉30th day` |
 | :---: |
-### and which of you by being anxious can add a cubit unto the measure of his life?
+# 20
 
 
 <br>
