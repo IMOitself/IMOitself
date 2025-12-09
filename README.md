@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— D E C 9 ——** |
+| **—— D E C 10 ——** |
 | :---: |
-# 🎵 december - neck deep
+# dont let perfection be the enemy of 'good enough'
 
 
 <br>
