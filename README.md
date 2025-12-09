@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— N O V 29 ——**<br><sup>`🎉30th day` |
+| **—— D E C 9 ——** |
 | :---: |
-# 20
+# 🎵 december - neck deep
 
 
 <br>
@@ -16,9 +16,9 @@
 
 <br>
 
-| `🗿`<br>**TWENTY NOVEMBERS**<br><sup>`G O A L S` |
+| `❔`<br>**DECEMBER**<br><sup>`G O A L S` |
 | :---: |
-`30 days of text editor`<br>[`[███░░░░░░░░░░░░░░░░░░░░]13%`](https://github.com/IMOitself/30-Days-Of-TextEditor) 
+`soon`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░]0%`]() 
 
 <details>
 <summary>
@@ -31,9 +31,9 @@
 
 | **`🗿` **TWENTY NOVEMBERS**** |
 | :-----: |
-<a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="manga-printing"></a>
+<a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="30-Days-Of-TextEditor"></a>
 **`🔔` **EARTHQUAKE OCTOBER****
-<a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="manga-printing"></a>
+<a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="countdown-wallpaper"></a>
 <a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
 **`🪡` **SILKSONG SEPTEMBER****
 <a href="https://github.com/IMOitself/readme-updater"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=readme-updater&theme=nord&hide_border=true" alt="readme-updater"></a>
