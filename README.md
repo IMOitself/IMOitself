@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— D E C 10 ——** |
+| **—— D E C 11 ——** |
 | :---: |
-# dont let perfection be the enemy of 'good enough'
+# later
 
 
 <br>
