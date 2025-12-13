@@ -2,10 +2,9 @@
 <br>
 
 
-| **—— D E C 11 ——** |
+| **—— D E C 13 ——** |
 | :---: |
-# later
-
+#### The man who complains about the way the ball bounces is usually the one who dropped it.
 
 <br>
 
