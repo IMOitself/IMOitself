@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— D E C 13 ——** |
+| **—— D E C 15 ——** |
 | :---: |
-#### The man who complains about the way the ball bounces is usually the one who dropped it.
+#### A great man is always willing to be little
 
 <br>
 
