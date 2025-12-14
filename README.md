@@ -4,7 +4,7 @@
 
 | **—— D E C 15 ——** |
 | :---: |
-#### A great man is always willing to be little
+## A great man is always willing to be little
 
 <br>
 
