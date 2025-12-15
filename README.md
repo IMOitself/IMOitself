@@ -4,7 +4,7 @@
 
 | **—— D E C 16 ——** |
 | :---: |
-## FALLOUT SEASON 2 IN 10AM🔥
+## FALLOUT SEASON 2 DROPS TOMMOROW :0
 
 <br>
 
