@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— D E C 16 ——** |
+| **—— D E C 17 ——** |
 | :---: |
-## FALLOUT SEASON 2 DROPS TOMMOROW :0
+## A good traveler has no fixed plans and is not intent on arriving
 
 <br>
 
