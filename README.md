@@ -22,7 +22,7 @@
 <details>
 <summary>
   
-| ————— P R O J E C T S ————— |
+| P R O J E C T S |
 | :-----: |
 `click to see more...`
   
