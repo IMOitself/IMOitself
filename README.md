@@ -2,9 +2,9 @@
 <br>
 
 
-| **—— D E C 17 ——** |
+| **—— D E C 19 ——** |
 | :---: |
-## A good traveler has no fixed plans and is not intent on arriving
+## happy spbb day 1
 
 <br>
 
