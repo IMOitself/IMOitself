@@ -13,12 +13,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 ![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23555555&color=%23555555)
 
-<br>
-
-| `❔`<br>**DECEMBER**<br><sup>`G O A L S` |
-| :---: |
-`soon`<br>[`[░░░░░░░░░░░░░░░░░░░░░░░]0%`]() 
-
 <details>
 <summary>
   
