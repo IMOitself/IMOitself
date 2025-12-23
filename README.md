@@ -4,7 +4,7 @@
 
 | **D E C 21** |
 | :---: |
-## hmmm
+### [a trust-me-its-good kinda video i pulled from youtube:D](https://youtu.be/zv-TS_mEHE4)
 
 <br>
 
