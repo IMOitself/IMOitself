@@ -2,10 +2,9 @@
 <br>
 
 
-| **D E C 23** |
+| **D E C 24** |
 | :---: |
-### [a trust-me-its-good kinda video i pulled from youtube:D](https://youtu.be/zv-TS_mEHE4)
-
+### write it on your heart that every day is the best day in the year
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
