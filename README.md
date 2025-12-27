@@ -2,9 +2,9 @@
 <br>
 
 
-| **D E C 24** |
+| **D E C 27** |
 | :---: |
-### write it on your heart that every day is the best day in the year
+### if everyone's special, no one will be
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
