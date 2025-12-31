@@ -2,9 +2,9 @@
 <br>
 
 
-| **D E C 27** |
+| **D E C 31** |
 | :---: |
-### if everyone's special, no one will be
+### movies i've watched on these past few days: <sub><br>Knives Out [deep but solid](https://m.imdb.com/title/tt8946378/) <br>The Truman Show [must watch](https://m.imdb.com/title/tt0120382/) <br>Sisu: Road to Revenge [brutal but very good](https://m.imdb.com/title/tt31844586/)
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
