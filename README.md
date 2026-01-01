@@ -2,7 +2,7 @@
 <br>
 
 
-| **DAY 2 <br>🔥** |
+| **🔥DAY 2** |
 | :---: |
 ### i edit this daily to remind me to touch github and prolly start be productive:D
 <br>
