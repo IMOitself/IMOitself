@@ -2,9 +2,9 @@
 <br>
 
 
-| **🔥DAY 2** |
+| **🔥DAY 3** |
 | :---: |
-### i edit this daily to remind me to touch github and prolly start be productive:D
+### later i guess
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
