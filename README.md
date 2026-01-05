@@ -2,9 +2,9 @@
 <br>
 
 
-| **🔥DAY 5** |
+| **🔥DAY 6** |
 | :---: |
-### i dont know
+### cure some laziness :D
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
