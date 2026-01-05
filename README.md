@@ -2,7 +2,7 @@
 <br>
 
 
-| **🔥DAY 6** |
+| **🔥DAY 5** |
 | :---: |
 ### cure some laziness :D
 <br>
