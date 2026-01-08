@@ -2,9 +2,9 @@
 <br>
 
 
-| **🔥DAY 7** |
+| **🔥DAY 8** |
 | :---: |
-### i forgor
+### just finished the lord of the rings trilogy:D
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
