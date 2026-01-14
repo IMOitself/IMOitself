@@ -2,9 +2,9 @@
 <br>
 
 
-| **🔥DAY 9** |
+| **JAN 14** |
 | :---: |
-### must have a prayerful life
+### every moment of idleness is an insult to those fighting to survive
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
