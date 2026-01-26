@@ -2,9 +2,9 @@
 <br>
 
 
-| **JAN 14** |
+| **JAN 26** |
 | :---: |
-### every moment of idleness is an insult to those fighting to survive
+### back :D <br><sub>`i got tired playing minecraft now am back at coding hehe`
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
