@@ -2,9 +2,9 @@
 <br>
 
 
-| **JAN 26** |
+| **JAN 27** |
 | :---: |
-### back :D <br><sub>`i got tired playing minecraft now am back at coding hehe`
+### Wake Up Dead Man <br>`10/10`
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
