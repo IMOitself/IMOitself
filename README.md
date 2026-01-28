@@ -2,9 +2,9 @@
 <br>
 
 
-| **JAN 27** |
+| **JAN 29** |
 | :---: |
-### Wake Up Dead Man <br>`10/10`
+### first time watching a GOT series,<br>cant wait for episode 3<br><sub>[`knight of the seven kingdoms`](https://m.imdb.com/title/tt27497448/)
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
