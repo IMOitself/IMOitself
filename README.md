@@ -2,9 +2,9 @@
 <br>
 
 
-| **FEB 6** |
+| **FEB 7** |
 | :---: |
-## i fell down the **ish's civilization experiment** rabbit hole <br><br><sub>[🎥microghost's perspective - 5.8m views](https://youtu.be/JqZrKtzZk7U?si=X2aM1kOk3AOMeHEx)
+## later
 <br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
