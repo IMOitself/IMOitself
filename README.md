@@ -4,8 +4,7 @@
 
 | **FEB 7** |
 | :---: |
-## later
-<br>
+### <br>the bird will land when u arent looking<br><sub> [`- CGP Grey`](https://youtu.be/LO1mTELoj6o)<br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
 
