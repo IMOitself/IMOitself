@@ -1,25 +1,32 @@
 <div align="center">
-<br>
 
+## this readme file was created 2 years ago<br><sub>[`[ first commit ]`](https://github.com/IMOitself/IMOitself/tree/7e28d7ef450194e9a86e89a62216dcbabd691365)
 
-| **FEB 8** |
+| **february 9 2026** |
 | :---: |
-### <br>the bird will land when u arent looking<br> [`- CGP Grey`](https://youtu.be/LO1mTELoj6o)
+
+
 <br><br>
 
-[![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
+[![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)<br>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)<br>
+![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23555555&color=%23555555)<br>
+[![Old Account - @IMOaswell](https://img.shields.io/badge/other%20accounts-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+
+<details>
+<summary>
+see more..
+</summary>
+
 ![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
-![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23555555&color=%23555555)
 
 <details>
 <summary>
   
 | P R O J E C T S |
 | :-----: |
-`click to see more...`
+`click to expand...`
   
 </summary>
 
@@ -50,6 +57,8 @@
 
 </details>
 
-[![Old Account - @IMOaswell](https://img.shields.io/badge/hidden%20account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+</details>
+
+</div>
 
 </div>
