@@ -20,13 +20,13 @@
   
 </summary>
 
-| **`🗿` **TWENTY NOVEMBERS**** |
+| **NOVEMBER**<br> `🗿` `i turned 20` |
 | :-----: |
 <a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="30-Days-Of-TextEditor"></a>
-**`🔔` **SHOCKTOBER****
+**OCTOBER**<br>`🔔` `earthquakes`
 <a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="countdown-wallpaper"></a>
 <a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
-**`🪡` **SILKSONG SEPTEMBER****
+**SEPTEMBER**<br> `🪡` `silksong`
 <a href="https://github.com/IMOitself/readme-updater"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=readme-updater&theme=nord&hide_border=true" alt="readme-updater"></a>
 <a href="https://github.com/IMOitself/project-generator"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=project-generator&theme=nord&hide_border=true" alt="project-generator"></a>
 **July**
