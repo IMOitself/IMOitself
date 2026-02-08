@@ -7,6 +7,8 @@
 ### <br>the bird will land when u arent looking<br><sub> [`- CGP Grey`](https://youtu.be/LO1mTELoj6o)<br>
 
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)
+![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 ![Changes on this README.md](https://img.shields.io/github/last-commit/IMOitself/IMOitself?style=for-the-badge&labelColor=%23555555&color=%23555555)
