@@ -2,7 +2,7 @@
 <br>
 
 
-| **FEB 7** |
+| **FEB 8** |
 | :---: |
 ### <br>the bird will land when u arent looking<br><sub> [`- CGP Grey`](https://youtu.be/LO1mTELoj6o)<br>
 
