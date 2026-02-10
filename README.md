@@ -1,8 +1,8 @@
 <div align="center">
 
-## this readme file was created 2 years ago<br><sub>[`[ first commit ]`](https://github.com/IMOitself/IMOitself/tree/7e28d7ef450194e9a86e89a62216dcbabd691365)
+## if u want a symbolic act, <br>dont burn the flag, wash it<br><sub>
 
-| **february 9 2026** |
+| **february 10 2026** |
 | :---: |
 
 
