@@ -18,7 +18,7 @@
 see more..
 </summary>
 
-![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)
 
 <details>
 <summary>
