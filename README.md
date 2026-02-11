@@ -1,8 +1,8 @@
 <div align="center">
 
-## if u want a symbolic act, <br>dont burn the flag, wash it<br><sub>
+### Makarov, you ever hear the old saying:<br> "the enemy of my enemy is my friend"<br><sub>`Capt. Price`
 
-| **february 10 2026** |
+| **february 12 2026** |
 | :---: |
 
 
