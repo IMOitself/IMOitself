@@ -1,8 +1,8 @@
 <div align="center">
 
-### Makarov, you ever hear the old saying:<br> "the enemy of my enemy is my friend"<br><sub>`Capt. Price`
+### progress is a squiggle, not a straight line.<br><sub>
 
-| **february 12 2026** |
+| **february 13 2026** |
 | :---: |
 
 
