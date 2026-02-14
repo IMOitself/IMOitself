@@ -1,6 +1,6 @@
 <div align="center">
 
-### a human with fluctuating energy, not a machine with constant output.<br><sub>
+### a human with fluctuating energy, <br> not a machine with constant output.<br><sub>
 
 | **february 14 2026** |
 | :---: |
