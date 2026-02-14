@@ -10,7 +10,7 @@
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
 [![](https://github-profile-trophy.vercel.app/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](https://github-profile-trophy.vercel.app/?username=IMOitself&theme=nord)<br>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)<br>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 [![Old Account - @IMOaswell](https://img.shields.io/badge/other%20accounts-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 
 <details>
