@@ -1,8 +1,8 @@
 <div align="center">
 
-### progress is a squiggle, not a straight line.<br><sub>
+### a human with fluctuating energy, not a machine with constant output.<br><sub>
 
-| **february 13 2026** |
+| **february 14 2026** |
 | :---: |
 
 
