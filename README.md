@@ -37,9 +37,9 @@ see more..
 <a href="https://github.com/IMOitself/github-stats"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=github-stats&theme=nord&hide_border=true" alt="github-stats"></a>
 **JANUARY**<br> `✨` `renewal`
 <a href="https://github.com/IMOitself/apk-compiler"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=apk-compiler&theme=nord&hide_border=true" alt="apk-compiler"></a>
-**NOVEMBER**<br> `🗿` `i turned 20`
+**NOVEMBER**<br> `🗿` `twentieth`
 <a href="https://github.com/IMOitself/30-Days-Of-TextEditor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=30-Days-Of-TextEditor&theme=nord&hide_border=true" alt="30-Days-Of-TextEditor"></a>
-**OCTOBER**<br>`🔔` `earthquakes`
+**OCTOBER**<br>`🔔` `disasters`
 <a href="https://github.com/IMOitself/countdown-wallpaper"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=countdown-wallpaper&theme=nord&hide_border=true" alt="countdown-wallpaper"></a>
 <a href="https://github.com/IMOitself/manga-printing"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=manga-printing&theme=nord&hide_border=true" alt="manga-printing"></a>
 **SEPTEMBER**<br> `🪡` `silksong`
