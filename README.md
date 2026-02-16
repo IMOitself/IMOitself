@@ -1,8 +1,8 @@
 <div align="center">
 
-## palmar hydrosis <br><sub>
+### he said, one day, you'll leave this world behind<br>so live a life you will remember <br><sub>`🎵 the nights - avicii`
 
-| **february 16 2026** |
+| **february 17 2026** |
 | :---: |
 
 
