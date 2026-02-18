@@ -1,6 +1,6 @@
 <div align="center">
 
-### City of Stars....<br><sub>[`La La Land ⭐10/10`](https://www.imdb.com/title/tt3783958/)
+# City of Stars....<br><sub>[`La La Land ⭐10/10`](https://www.imdb.com/title/tt3783958/)
 
 | **february 17 2026** |
 | :---: |
