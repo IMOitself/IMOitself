@@ -1,9 +1,8 @@
 <div align="center">
 
-# City of Stars....<br><sub>[`La La Land ⭐10/10`](https://www.imdb.com/title/tt3783958/)
+<img height="300" src="https://github.com/user-attachments/assets/bf5726d8-0f0e-4c3f-9bd2-5b7003ec2cdf" alt="banner">
 
-| **february 17 2026** |
-| :---: |
+# testing
 
 <br>
 
