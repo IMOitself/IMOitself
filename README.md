@@ -1,6 +1,6 @@
 <div align="center">
 
-### he said, one day, you'll leave this world behind<br>so live a life you will remember <br><sub>`🎵 the nights - avicii`
+### City of Stars....<br><sub>[`La La Land ⭐10/10`](https://www.imdb.com/title/tt3783958/)
 
 | **february 17 2026** |
 | :---: |
