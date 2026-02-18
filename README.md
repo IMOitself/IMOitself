@@ -1,8 +1,9 @@
 <div align="center">
 
-<img height="300" src="https://github.com/user-attachments/assets/bf5726d8-0f0e-4c3f-9bd2-5b7003ec2cdf" alt="banner">
+# work in progress<br><sub>[`.`](https://github.com/IMOitself/IMOitself/tree/070f31c0a8b2cf788d7235ba206ff2ff2045b21e)
 
-# testing
+| **february 18 2026** |
+| :---: |
 
 <br>
 
