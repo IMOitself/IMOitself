@@ -1,8 +1,8 @@
 <div align="center">
 
-# work in progress<br><sub>[`.`](https://github.com/IMOitself/IMOitself/tree/070f31c0a8b2cf788d7235ba206ff2ff2045b21e)
+# good morning idk<br><sub>[]()
 
-| **february 19 2026** |
+| **february 20 2026** |
 | :---: |
 
 <br>
