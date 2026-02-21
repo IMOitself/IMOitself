@@ -1,6 +1,6 @@
 <div align="center">
 
-# good morning idk<br><sub>[]()
+## waiting for *A Knight of the Seven Kingdoms* episode 6<br><sub>[]()
 
 | **february 20 2026** |
 | :---: |
