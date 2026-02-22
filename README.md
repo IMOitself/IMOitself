@@ -1,6 +1,6 @@
 <div align="center">
 
-## waiting for *A Knight of the Seven Kingdoms* episode 6<br><sub>[]()
+## *A Knight of the Seven Kingdoms* <br>last episode<br><sub>[]()
 
 | **february 20 2026** |
 | :---: |
