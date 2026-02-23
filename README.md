@@ -1,6 +1,6 @@
 <div align="center">
 
-## *A Knight of the Seven Kingdoms* <br>last episode<br><sub>[]()
+## day one<br><sub>[]()
 
 | **february 20 2026** |
 | :---: |
