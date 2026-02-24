@@ -1,8 +1,8 @@
 <div align="center">
 
-# day two<br><sub>[]()
+# day three idk<br><sub>[]()
 
-| **february 24 2026** |
+| **february 25 2026** |
 | :---: |
 
 <br>
