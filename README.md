@@ -1,8 +1,8 @@
 <div align="center">
 
-# day five idk<br><sub>[]()
+# "donde la ciencia falla,<br>la oracion triunfa"<br><sub>[day five](https://youtu.be/mw5-5WsxT2E?t=829)
 
-| **february 27 2026** |
+| **february 28 2026** |
 | :---: |
 
 <br>
