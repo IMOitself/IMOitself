@@ -1,12 +1,12 @@
 <div align="center">
 
-## another good ahh channel<br>[christopher okhravi](https://youtube.com/@christopherokhravi)
+## if u do not know the worth, <br>u might disregard it<br><sub>[]()
 
-| **march 1 2026** |
+| **march 2 2026** |
 | :---: |
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
-[![](http://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)<br>
+[![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)<br>
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 [![Old Account - @IMOaswell](https://img.shields.io/badge/other%20accounts-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
 
