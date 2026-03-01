@@ -1,6 +1,6 @@
 <div align="center">
 
-## another good ahh channel<br><sub>[christopher okhravi](https://youtube.com/@christopherokhravi)
+## another good ahh channel<br>[christopher okhravi](https://youtube.com/@christopherokhravi)
 
 | **february 28 2026** |
 | :---: |
