@@ -1,6 +1,6 @@
 <div align="center">
 
-# "donde la ciencia falla,<br>la oracion triunfa"<br><sub>[day five](https://youtu.be/mw5-5WsxT2E?t=829)
+## another good ahh channel<br><sub>[christopher okhravi](https://youtube.com/@christopherokhravi)
 
 | **february 28 2026** |
 | :---: |
