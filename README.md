@@ -1,6 +1,6 @@
 <div align="center">
 
-## if u do not know the worth, <br>u might disregard it<br><sub>[]()
+## playing pokemon<br>fire red:D<br><sub>[]()
 
 | **march 2 2026** |
 | :---: |
