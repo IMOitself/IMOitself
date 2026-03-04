@@ -1,6 +1,6 @@
 <div align="center">
 
-## playing pokemon<br>fire red:D<br><sub>[]()
+## cinnabar island,<br>kanto region<br><sub>[]()
 
 | **march 3 2026** |
 | :---: |
