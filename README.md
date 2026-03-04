@@ -1,8 +1,8 @@
 <div align="center">
 
-## cinnabar island,<br>kanto region<br><sub>[]()
+## idk what to put here anymore<br><sub>[]()
 
-| **march 4 2026** |
+| **march 5 2026** |
 | :---: |
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
