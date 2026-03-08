@@ -1,8 +1,8 @@
 <div align="center">
 
-## too much accessory, destroys beauty<br><sub>[]()
+## idk<br><sub>[]()
 
-| **march 6 2026** |
+| **march 8 2026** |
 | :---: |
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
