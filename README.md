@@ -1,8 +1,8 @@
 <div align="center">
 
-## exam day<br><sub>[]()
+### "a Slip is tripping over a rug in your own room.<br>a Mistake is confidently walking into the wrong house."<br><sub>[]()
 
-| **march 10 2026** |
+| **march 11 2026** |
 | :---: |
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
