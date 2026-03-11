@@ -1,6 +1,6 @@
 <div align="center">
 
-### "a Slip is tripping over a rug in your own room.<br>a Mistake is confidently walking into the wrong house."<br><sub>[]()
+### "a slip is tripping over a rug in your own room.<br>a mistake is confidently walking into the wrong house."<br><sub>[]()
 
 | **march 11 2026** |
 | :---: |
@@ -28,10 +28,13 @@ see more..
   
 </summary>
 
-| **FEBRUARY**<br> `🔒` `lock in` |
+|  |
 | :-----: |
+**MARCH**<br> `🚀` `momentum`
+<a href="https://github.com/IMOitself/personal-github-banner"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=personal-github-banner&theme=nord&hide_border=true" alt="personal-github-banner"></a>
+**FEBRUARY**<br> `🔒` `locked in`
 <a href="https://github.com/IMOitself/peanut-editor"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=peanut-editor&theme=nord&hide_border=true" alt="peanut-editor"></a>
-<a href="https://github.com/IMOaswell/interesting-things"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=interesting-things&theme=nord&hide_border=true" alt="interesting-things"></a>
+<a href="https://github.com/IMOaswell/compiler-trigger"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOaswell&repo=compiler-trigger&theme=nord&hide_border=true" alt="compiler-trigger"></a>
 <a href="https://github.com/IMOitself/github-stats"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=github-stats&theme=nord&hide_border=true" alt="github-stats"></a>
 **JANUARY**<br> `✨` `renewal`
 <a href="https://github.com/IMOitself/apk-compiler"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=apk-compiler&theme=nord&hide_border=true" alt="apk-compiler"></a>
