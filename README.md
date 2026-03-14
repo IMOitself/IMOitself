@@ -3,9 +3,9 @@
 # midterm done:D<br><sub>[]()
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
-[![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)<br>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
-[![Old Account - @IMOaswell](https://img.shields.io/badge/other%20accounts-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+[![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b)](https://visitorbadge.io/status?path=IMOitself)
+[![other accounts](https://img.shields.io/badge/other%20accounts-fff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/IMOaswell)
 
 <details>
 <summary>
