@@ -1,8 +1,8 @@
 <div align="center">
 
-# la-la-la<br>la-la-la<br>ai dua em ve?<br><sub>[`🎵TIA - Low Cortisol Song`](https://youtu.be/apqe_u3VJQ4?si=mCzvEk6Vo86b6KP-)
+# lean not unto thine own understanding<br><sub>[]()
 
-| **march 13 2026** |
+| **march 14 2026** |
 | :---: |
 
 [![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
