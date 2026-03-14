@@ -9,10 +9,7 @@
 
 <details>
 <summary>
-  
-| P R O J E C T S |
-| :-----: |
-`click to expand...`
+see projects . . .
   
 </summary>
 
