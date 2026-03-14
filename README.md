@@ -1,23 +1,11 @@
 <div align="center">
 
-# lean not unto thine own understanding<br><sub>[]()
+# midterm done:D<br><sub>[]()
 
-| **march 14 2026** |
-| :---: |
-
-[![](https://raw.githubusercontent.com/IMOitself/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/IMOitself/github-stats)<br>
+[![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&theme=nord)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)<br>
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&countColor=%23555555)](https://visitorbadge.io/status?path=IMOitself)
 [![Old Account - @IMOaswell](https://img.shields.io/badge/other%20accounts-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
-
-<details>
-<summary>
-see more..
-</summary>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IMOitself&theme=github-dark-blue&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_longest_streak=true&card_height=170)](https://git.io/streak-stats)<br>
 
 <details>
 <summary>
@@ -61,8 +49,6 @@ see more..
 <sup>some repos like school activities, experiments and projects from my old account are not included in this table.</sup>
 
 <br>
-
-</details>
 
 </details>
 
