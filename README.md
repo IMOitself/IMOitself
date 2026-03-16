@@ -10,7 +10,7 @@
 
 <details>
 <summary>
-see projects . . .
+SEE PROJECTS . . .
   
 </summary>
 
