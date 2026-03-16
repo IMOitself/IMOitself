@@ -10,11 +10,10 @@
 
 <details>
 <summary>
-SEE PROJECTS . . .
-  
+<h2><code>see projects</code><h2>
 </summary>
 
-|  |
+| `schoolworks and older projects are not included in this table.` |
 | :-----: |
 **MARCH**<br> `🚀` `momentum`
 <a href="https://github.com/IMOitself/personal-github-banner"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=personal-github-banner&theme=nord&hide_border=true" alt="personal-github-banner"></a>
@@ -44,7 +43,6 @@ SEE PROJECTS . . .
 <a href="https://github.com/IMOitself/AfterReadme"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&theme=nord&hide_border=true" alt="After Readme"></a>
 **May**
 <a href="https://github.com/IMOitself/hunterexam"><img width="316" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&theme=nord&hide_border=true" alt="Hunter Exam"></a>
-<sup>some repos like school activities, experiments and projects from my old account are not included in this table.</sup>
 
 <br>
 
