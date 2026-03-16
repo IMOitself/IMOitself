@@ -1,6 +1,6 @@
 <div align="center">
 
-# midterm done:D<br><sub>[]()
+# pokemon pokopia:D<br><sub>[]()
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner)<br>
