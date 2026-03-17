@@ -1,6 +1,6 @@
 <div align="center">
 
-# pokemon pokopia:D<br><sub>[]()<sub>`-today's random text-`
+# intent :D<br><sub>[]()<sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner)<br>
