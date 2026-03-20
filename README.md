@@ -1,6 +1,6 @@
 <div align="center">
 
-## love the process, <br>not the end result :D<br><sub>[]()<sub>`-today's random text-`
+# love the process, <br>not the end result :D<br><sub>[]()<sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
