@@ -1,6 +1,6 @@
 <div align="center">
 
-## humans are made to create.<br> this is why u get depressed when all u do is consume. <sub>[]()<br><sub>`-today's random text-`
+## pick a great movie where <br>u dont wish it to be good.<br> u wish it to be longer :D <br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
