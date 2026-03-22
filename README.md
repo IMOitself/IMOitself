@@ -1,6 +1,6 @@
 <div align="center">
 
-## something about<br>[sicario](https://www.imdb.com/title/tt3397884/), [transformers one](https://www.imdb.com/title/tt8864596) and [hacksaw ridge](https://www.imdb.com/title/tt2119532) :D<br><sub>[]()<sub>`-today's random text-`
+## pokemon go :D<sub>[]()<sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
