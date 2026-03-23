@@ -1,6 +1,6 @@
 <div align="center">
 
-## pick a great movie where <br>u dont wish it to be good.<br> u wish it to be longer :D <br><sub>[]()<br><sub>`-today's random text-`
+## tyler durden: the things you own end up owning you. <br><sub>[`fight club (1999)`](https://m.imdb.com/title/tt0137523/)<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
