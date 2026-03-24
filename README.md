@@ -1,6 +1,6 @@
 <div align="center">
 
-## tyler durden: <br>sticking feathers up your butt does not make you a chicken <br><sub>[`fight club (1999)`](https://m.imdb.com/title/tt0137523/)<br><sub>`-today's random text-`
+### no matter what path we choose in life,<br>we'll always wonder of the path not taken<br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
