@@ -1,6 +1,6 @@
 <div align="center">
 
-### no matter what path we choose in life,<br>we'll always wonder of the path not taken<br><sub>[]()<br><sub>`-today's random text-`
+## something about rusty raft<br>and detective duck<br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
