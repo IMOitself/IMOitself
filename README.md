@@ -1,6 +1,6 @@
 <div align="center">
 
-# [the entire history of superman](https://youtu.be/BZwOKOZaKaE)<br><sub>[]()<br><sub>`-today's random text-`
+# day one<br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)<br>
