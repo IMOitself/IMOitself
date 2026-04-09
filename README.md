@@ -1,6 +1,6 @@
 <div align="center">
 
-# bloodhounds season 2<br><sub>[]()<br><sub>`-today's random text-`
+### things we know did not come from us, we just discovered it.<br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
