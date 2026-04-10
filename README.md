@@ -1,6 +1,6 @@
 <div align="center">
 
-### what if the things we are very proud of <br>turns out to be ineffective.<br>so always be humble:D<br><sub>[]()<br><sub>`-today's random text-`
+# everyone is unique :D<br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
