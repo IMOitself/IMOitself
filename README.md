@@ -1,6 +1,6 @@
 <div align="center">
 
-### <sup><i>its kinda beautiful that...</sup></i><br>im not important and neither are u,<br>so lets do whatever we wanna do<br><sub>[`🎵 important - ian mcconnell`](https://youtu.be/gGEiDMf01sw)<br><br><sub>`-today's random text-`
+# a rising tide lifts all boat <br><sub>[]()<br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
