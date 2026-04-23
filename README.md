@@ -1,6 +1,6 @@
 <div align="center">
 
-## whatever you do, at the crossroads,<br> do not turn left<br><br><sub>`-today's random text-`
+## these days that ur having isnt for nothing<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
