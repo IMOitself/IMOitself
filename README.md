@@ -1,6 +1,6 @@
 <div align="center">
 
-## our worries are tiny in the grand scale of the universe<br><br><sub>`-today's random text-`
+## 'im D-I-0336-7, a state-of-the-art pragmata created here at the cradle'<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
