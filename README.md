@@ -1,6 +1,6 @@
 <div align="center">
 
-## be emiru,<br>notice landmine,<br>sidestep landmine,<br>landmine goes off anyway<br><br><sub>`-today's random text-`
+## put ur minimum high enough,<br>so that hard tasks become easier:D<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
