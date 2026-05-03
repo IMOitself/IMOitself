@@ -1,6 +1,6 @@
 <div align="center">
 
-## why do people call everything to be nazi and fascist nowadays -_-<br><br><sub>`-today's random text-`
+## dont make them come back tommorow to give it,<br> when u already have it now<br>[proverbs 3:28](https://www.biblegateway.com/passage/?search=Kawikaan%203%3A28&version=KJV)<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
