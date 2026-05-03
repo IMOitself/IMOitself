@@ -1,6 +1,6 @@
 <div align="center">
 
-# never envy<br><br><sub>`-today's random text-`
+## novices think they can win,<br> experts know they can only delay losing<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
@@ -15,7 +15,7 @@
 
 | `schoolworks and older projects are not included in this table.` |
 | :-----: |
-**APRIL**<br> `🔎` `untitled yet`
+**APRIL**<br> `🔎` `warm up`
 <a href="https://github.com/IMOitself/a1sberg-ctf-walkthrough"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=a1sberg-ctf-walkthrough&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="a1sberg-ctf-walkthrough"></a>
 **MARCH**<br> `🚀` `momentum`
 <a href="https://github.com/IMOitself/personal-github-banner"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=personal-github-banner&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="personal-github-banner"></a>
