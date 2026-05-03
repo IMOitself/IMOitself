@@ -1,6 +1,6 @@
 <div align="center">
 
-### You’re Temporarily Blocked<br>it looks like u were misusing this feature by going too fast.<br> uve been temporarily blocked from using it:D<br><br><sub>`-today's random text-`
+# never envy<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
