@@ -1,6 +1,6 @@
 <div align="center">
 
-## <br> be cosmically insignificant :D<br><sub>`positive version of existential crisis`</sup><br><sub>`-today's random text-`
+# its ok to be cosmically insignificant :D</sup><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
