@@ -1,6 +1,6 @@
 <div align="center">
 
-# its ok to be cosmically insignificant :D</sup><br><sub>`-today's random text-`
+## she turned her cants into can,<br>and her dreams into plans<br><sub>[laufey's yearbook](https://www.reddit.com/r/laufey/comments/1n1us4s/laufeys_yearbook/)</sup><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
