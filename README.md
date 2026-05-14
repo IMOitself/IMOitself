@@ -1,6 +1,6 @@
 <div align="center">
 
-# just be optimist<br><br><sub>`-today's random text-`
+## use bread knife to slice an indian mango,<br>its super effective<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
