@@ -1,6 +1,6 @@
 <div align="center">
 
-## yes theres the 34th rule, <br> but didnt expect more than a hundred :0<br>[`[rules of the internet]`](https://tropedia.fandom.com/wiki/Rules_of_the_Internet)<br><br><sub>`-today's random text-`
+## in 20 years, most dads are playing minecraft i think :D<br>[]()<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
