@@ -1,6 +1,6 @@
 <div align="center">
 
-## in 20 years, most dads are playing minecraft i think :D<br>[]()<br><br><sub>`-today's random text-`
+## the internet rewards polished version of people. <br>not always the honest one.<br>[]()<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
