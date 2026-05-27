@@ -1,6 +1,6 @@
 <div align="center">
 
-## falling for the promise of the emptiness machine<br><br><sub>`-today's random text-`
+## something about people first time trying minecraft <br>[`maya`](https://youtu.be/nzmlN9ai4Ik) ,[`evilbunniii`](https://youtu.be/6Pqx_QXnAcw) ,[`evilbunniii 2`](https://youtu.be/yXlxdxldtoU)<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
