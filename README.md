@@ -1,6 +1,6 @@
 <div align="center">
 
-## something about people first time trying minecraft <sub><br>[`maya`](https://youtu.be/nzmlN9ai4Ik), [`evilbunniii`](https://youtu.be/6Pqx_QXnAcw) and [`evilbunniii 2`](https://youtu.be/yXlxdxldtoU)<br><br><sub>`-today's random text-`
+# have more than u show, <br> speak less than u know<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
