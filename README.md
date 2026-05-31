@@ -1,6 +1,6 @@
 <div align="center">
 
-# legendary video to watch: <br><sub>[`marcusk's 1500 players simulate civilization in minecraft`](https://youtu.be/0vCQOvpVbxE) <br><br><sub>`-today's random text-`
+# those who commit to nothing,<br> are distracted by everything <br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
