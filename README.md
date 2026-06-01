@@ -1,6 +1,6 @@
 <div align="center">
 
-# those who commit to nothing,<br> are distracted by everything <br><br><sub>`-today's random text-`
+# kyokugen 2026<br><sub>`pedo mellon a minno`:D<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
