@@ -1,6 +1,6 @@
 <div align="center">
 
-# the machine - alan becker<br>[animation vs animator 13](https://youtu.be/l6WeJ9JqDfU)<br><br><sub>`-today's random text-`
+# kyokugen ctf competition has ended :D<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
