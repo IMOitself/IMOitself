@@ -1,6 +1,6 @@
 <div align="center">
 
-## `ryan gosling:` u think this is gonna work?<br>`sandra huller:` God willing.<br><sub>[`🎬project hail mary (2026)`](https://www.imdb.com/title/tt12042730/)<br><br><sub>`-today's random text-`
+### [`rocky:`](https://www.imdb.com/name/nm4013922/)186.3 years<br>[`grace:`](https://www.imdb.com/name/nm0331516/) u've been together a long time<br>[`rocky:`](https://www.imdb.com/name/nm4013922/) is not enough.<br><sub>[`🎬project hail mary (2026)`](https://www.imdb.com/title/tt12042730/)<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
