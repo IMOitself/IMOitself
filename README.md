@@ -1,6 +1,6 @@
 <div align="center">
 
-### if a picture is all that I have,<br>i can picture the times that we wont get back<br><sub>[`🎵 wish you were here - neck deep`](https://youtu.be/VyPwEZTIpVc)<br><br><sub>`-today's random text-`
+## singing along to a song from 3 summers ago<br><sub>[`🎵 wish you were here - neck deep`](https://youtu.be/VyPwEZTIpVc)<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
