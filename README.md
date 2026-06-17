@@ -1,6 +1,6 @@
 <div align="center">
 
-## i have built this house while i wait for your returnn<br><br><sub>`-today's random text-`
+## i really love aki from <br>[viral hit (2026)](https://www.imdb.com/title/tt39400589/) :0<br><br><sub>*`idk same vibes as rei from alice in borderland`*<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
