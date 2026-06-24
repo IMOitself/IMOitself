@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="360" height="360" alt="ezgif-1a2ab0a416e0d268" src="https://github.com/user-attachments/assets/936be416-1d17-40ce-b870-ca43e140e314" />
+<img width="200" height="200" alt="ezgif-1a2ab0a416e0d268" src="https://github.com/user-attachments/assets/936be416-1d17-40ce-b870-ca43e140e314" />
 
 # what?<br>imo is evolving!<br><br><sub>`-today's random text-`
 
