@@ -2,7 +2,7 @@
 
 <img width="200" height="200" alt="ezgif-1a2ab0a416e0d268" src="https://github.com/user-attachments/assets/936be416-1d17-40ce-b870-ca43e140e314" />
 
-# what?<br>imo is evolving!<br><br><sub>`-today's random text-`
+# what?<br>imo is evolving!<br><sub>[*previous pfp :D*](https://www.deviantart.com/imo7/art/Kobeni-Minimalist-Chainsawman-968261756)<br><br><sub>`-today's random text-`
 
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
 [![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
