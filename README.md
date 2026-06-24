@@ -17,14 +17,15 @@
 
 | `schoolworks and older projects are not included in this table.` |
 | :-----: |
-**JUNE**<br> `❓` `untitled`
+**JUNE**<br> `🚩` `flags`
+<a href="https://github.com/IMOitself/CentralLuzonCTF2026"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=CentralLuzonCTF2026&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="CentralLuzonCTF2026"></a>
 <a href="https://github.com/IMOitself/kyokugen-ctf-2026"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=kyokugen-ctf-2026&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="kyokugen-ctf-2026"></a>
-**MAY**<br> `🌏` `forever`
+**MAY**<br> `🌏` `forever world`
 <a href="https://github.com/IMOitself/forever-seed-finder"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=forever-seed-finder&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="forever-seed-finder"></a>
 <a href="https://github.com/IMOitself/cylabacademy-ctf-walkthrough"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=cylabacademy-ctf-walkthrough&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="cylabacademy-ctf-walkthrough"></a>
 <a href="https://github.com/IMOitself/hacker101-ctf-walkthrough"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=hacker101-ctf-walkthrough&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="hacker101-ctf-walkthrough"></a>
 <a href="https://github.com/IMOitself/messenger-chat-photo-grabber"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=messenger-chat-photo-grabber&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="messenger-chat-photo-grabber"></a>
-**APRIL**<br> `🔎` `warm up`
+**APRIL**<br> `🏖️` `warmups`
 <a href="https://github.com/IMOitself/a1sberg-ctf-walkthrough"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=a1sberg-ctf-walkthrough&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="a1sberg-ctf-walkthrough"></a>
 **MARCH**<br> `🚀` `momentum`
 <a href="https://github.com/IMOitself/personal-github-banner"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=personal-github-banner&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="personal-github-banner"></a>
