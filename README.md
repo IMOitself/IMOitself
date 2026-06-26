@@ -1,12 +1,43 @@
+```diff
+! ====================================================== work in progess :D ===============================================
+```
+
 <div align="center">
 
-# day one :D<br><br><sub>`-today's random text-`
+<a href="https://github.com/IMOitself/personal-github-banner"><img width="680" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg" align="left"></a>
 
-[![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg)](https://github.com/IMOitself/personal-github-banner)<br>
-[![](https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg)](http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html)<br>
+<table>
+  <tr>
+  <th>
+
+## day one<br><sub>`- today's random text -`</sub>
+    
+  </th>
+  </tr>
+</table>
+
+<a href="http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html"><img width="680" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg" align="left"></a>
+
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b)](https://visitorbadge.io/status?path=IMOitself)
 [![other accounts](https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOaswell)
+
+<br>
+
+<table>
+  <tr>
+  <th>
+
+testing the limits of github profile rn <br>
+as part of the rebranding thing idk. <br>
+also tysm for visiting this page:D<br>
+[@IMOaswell](https://github.com/IMOaswell)
+
+  </th>
+  </tr>
+</table>
+
+<br>
 
 <details>
 <summary>
@@ -57,6 +88,10 @@
 <br>
 
 </details>
+
+```diff
+! ====================================================== work in progess :D ===============================================
+```
 
 </div>
 
