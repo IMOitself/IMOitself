@@ -11,7 +11,6 @@
 ### day one<br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
-
 <a href="http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html"><img width="550" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg" align="left"></a>
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
@@ -30,6 +29,7 @@ part of the rebranding thing idk<br>
   </tr>
 </table>
 
+<br>
 <br>
 <br>
 <br>
