@@ -8,7 +8,7 @@
 
 <table><tr><th>
 
-### day one<br><sub>`————— today's random text —————`</sub>
+### day one<br><sub>`———————— today's random text ————————`</sub>
     
 </th></tr></table>
 
@@ -22,7 +22,7 @@
   <tr>
   <th>
 
-`    `testing the limits of github profile rn<br>
+`     `testing the limits of github profile rn<br>
 as part of the rebranding thing idk. <br>
 also tysm for visiting this page:D<br>
 [@IMOaswell](https://github.com/IMOaswell)
