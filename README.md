@@ -1,7 +1,3 @@
-```diff
-! ====================================================== work in progess :D ===============================================
-```
-
 <div align="center">
 
 <a href="https://github.com/IMOitself/personal-github-banner"><img width="550" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-main.svg" align="left"></a>
@@ -84,10 +80,6 @@ part of the rebranding thing idk<br>
 <br>
 
 </details>
-
-```diff
-! ====================================================== work in progess :D ===============================================
-```
 
 </div>
 
