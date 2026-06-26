@@ -15,8 +15,8 @@
 <a href="http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html"><img width="550" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg" align="left"></a>
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
-<a href="https://visitorbadge.io/status?path=IMOitself"><img width="110" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
-<a href="https://github.com/IMOaswell"><img width="133" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
+<a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <table>
   <tr>
@@ -33,6 +33,7 @@ part of the rebranding thing idk<br>
 <br>
 <br>
 <br>
+
 
 <details>
 <summary>
