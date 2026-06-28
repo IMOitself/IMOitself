@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### day two<br><sub>`——— today's random text ———`<br></sub>
+### day three<br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
