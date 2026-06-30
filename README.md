@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### facebook security slop<br> ;-;<br><sub>`——— today's random text ———`<br></sub>
+### karma can get to u<br> ten fold<br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
