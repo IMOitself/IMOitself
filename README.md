@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### karma can get to u<br> ten fold<br><sub>`——— today's random text ———`<br></sub>
+### whoso rewardeth <br>evil for good,<br> evil shall not depart<br> from his house<br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
