@@ -80,6 +80,36 @@ minimalist kind of vibes :D<br>
 
 </details>
 
+
+
 </div>
 
 </div>
+
+> [!WARNING]
+> work in progress :D
+
+## academic projects
+- https://github.com/IMOitself/anime-rate-and-roll
+- https://github.com/IMOitself/wad-html-act
+- https://github.com/IMOitself/wad-laravel-react-act2-3
+- https://github.com/IMOitself/anime-watched-ms
+- https://github.com/IMOitself/wad-laravel-act1
+- https://github.com/IMOitself/wad-laravel-act2
+- https://github.com/IMOitself/wad-laravel-act3
+- https://github.com/IMOitself/wad-laravel-act4
+- https://github.com/IMOitself/hci-activity
+- https://github.com/IMOitself/bible-first
+- https://github.com/IMOitself/DSA-sample-code
+- https://github.com/IMOitself/rwd-activity-123
+- https://github.com/IMOitself/rwd-activity-4
+- https://github.com/IMOitself/rwd-activity-5
+- https://github.com/IMOitself/rwd-activity-7
+- https://github.com/IMOitself/rwd-activity-8
+- https://github.com/IMOitself/rwd-activity-9
+- https://github.com/IMOitself/rwd-activity-10
+- https://github.com/IMOitself/RWD-activities
+- https://github.com/IMOitself/MidtrmProjG2
+- https://github.com/IMOitself/wad-js-activity
+- https://github.com/IMOitself/wad-lab2-html-css
+- https://github.com/IMOitself/hunterexam
