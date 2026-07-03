@@ -17,8 +17,8 @@
   <tr>
   <th>
 
-testing the limit of github profile<br>
-part of the rebranding thing idk<br>
+some lowercase, monospace,<br>
+minimalist kind of vibes :D<br>
 [@IMOaswell](https://github.com/IMOaswell)
 
   </th>
@@ -32,10 +32,10 @@ part of the rebranding thing idk<br>
 
 <details>
 <summary>
-<h2><code>see projects</code><h2>
+<h2><code>see personal projects</code><h2>
 </summary>
 
-| `schoolworks and older projects are not included in this table.` |
+| `older projects or schoolworks are not included in this table.` |
 | :-----: |
 **JUNE**<br> `🚩` `flags`
 <a href="https://github.com/IMOitself/CentralLuzonCTF2026"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IMOitself&repo=CentralLuzonCTF2026&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="CentralLuzonCTF2026"></a>
