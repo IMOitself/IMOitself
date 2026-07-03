@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### fear says 'what if'<br>faith says 'even if'<br><sub>`——— today's random text ———`<br></sub>
+### i do not think <br> therefore i forgor <br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
