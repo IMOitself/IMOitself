@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### whoso rewardeth <br>evil for good,<br> evil shall not depart<br> from his house<br><sub>`——— today's random text ———`<br></sub>
+### fear says 'what if'<br>faith says 'even if'<br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
