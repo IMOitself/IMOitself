@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### never make a <br> false claim true<br><sub>`——— today's random text ———`<br></sub>
+### oh shucks <br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
