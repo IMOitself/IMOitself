@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### oh shucks <br><sub>`——— today's random text ———`<br></sub>
+### im wide awake and<br> i can see the<br> perfect sky is torn<br><sub>[`🎵 torn - neck deep`](https://www.youtube.com/watch?v=TWACe_5KEBo) <br><sub>`——— today's random text ———`<br></sub>
     
 </th></tr></table>
 
@@ -25,7 +25,6 @@ minimalist kind of vibes :D<br>
   </tr>
 </table>
 
-<br>
 <br>
 <br>
 <br>
