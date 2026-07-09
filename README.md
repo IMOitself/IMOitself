@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### im wide awake<br>and i can see the<br> perfect sky is torn<br><sub>[`🎵 torn - neck deep 🎵`](https://www.youtube.com/watch?v=TWACe_5KEBo)</sub><br><br><kbd>`—————— today's random text ——————`<br>
+### and i will wait<br> and wait and wait <br>until this city burns<br><sub>[`🎵 janine berdin 🎵`](https://www.youtube.com/watch?v=sEBbMyp8lKY)</sub><br><br><kbd>`—————— today's random text ——————`<br>
     
 </th></tr></table>
 
