@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-### and i will wait<br> and wait and wait <br>until this city burns<br><sub>[`🎵 janine berdin 🎵`](https://www.youtube.com/watch?v=sEBbMyp8lKY)</sub><br><br><kbd>`—————— today's random text ——————`<br>
+#### the greatest good you can do<br> for another is not<br> just share your riches, <br>but to reveal to him his own</sub><br><br><kbd>`—————— today's random text ——————`<br>
     
 </th></tr></table>
 
