@@ -5,7 +5,7 @@
 
 <table><tr><th>
     
-#### AI can do things no one can,<br>so can a forklift<br><sub>[`🎬 Andy Weir`](https://youtu.be/0g97kzzldgw?t=2762)</sub><br><br><kbd>`—————— today's random text ——————`<br>
+### AI can do things<br> no one can,<br>so can a forklift<br><sub>[`🎬 Andy Weir`](https://youtu.be/0g97kzzldgw?t=2762)</sub><br><br><kbd>`—————— today's random text ——————`<br>
     
 </th></tr></table>
 
