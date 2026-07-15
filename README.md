@@ -6,24 +6,16 @@
 <table><tr><th>
     
 ### pollyanna :D<br><br><kbd>`—————— today's random text ——————`<br>
-    
-</th></tr></table>
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
 <a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
 <a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<table>
-  <tr>
-  <th>
-
 lowercase, monospace,<br>
 minimalist kind of vibes :D<br>
 [@IMOaswell](https://github.com/IMOaswell)
 
-  </th>
-  </tr>
-</table>
+</th></tr></table>
 
 <br>
 <br>
