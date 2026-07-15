@@ -26,8 +26,6 @@ minimalist kind of vibes :D<br>
 </table>
 
 <br>
-<br>
-<br>
 
 
 <details>
