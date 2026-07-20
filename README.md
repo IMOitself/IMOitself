@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### u ever 5150'd someone?<br><sub>[`🎬backrooms`](https://www.imdb.com/title/tt26657236/)</sub><br>
+#### imagine describing a dog<br>to someone who's<br> never seen one before<br>then asking them to draw it<br><sub>[`🎬backrooms`](https://www.imdb.com/title/tt26657236/)</sub><br>
 
 <kbd>`——————————— today's random text ———————————`</kbd><br>
 
@@ -18,9 +18,6 @@
 ```
 lowercase, monospace,
 minimalist kind of vibes :D
-
-
-
 ```
 
 </div>
