@@ -4,16 +4,19 @@
 <a href="http://htmlpreview.github.io/?https://github.com/IMOitself/personal-github-banner/blob/master/redirect-to-recent-repo.html"><img width="550" src="https://github.com/IMOitself/personal-github-banner/blob/master/banner-recent-repo.svg" align="left"></a>
 
 <table><tr><th>
-    
-### u ever 5150'd someone?<br><sub>[`🎬backrooms`](https://www.imdb.com/title/tt26657236/)</sub><br><br><kbd>`—————— today's random text ——————`<br>
+
+### u ever 5150'd someone?<br><sub>[`🎬backrooms`](https://www.imdb.com/title/tt26657236/)</sub><br>
+
+<kbd>`——————————— today's random text ———————————`</kbd><br>
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
 <a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
 <a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
 
-lowercase, monospace,<br>
-minimalist kind of vibes :D<br>
-[@IMOaswell](https://github.com/IMOaswell)
+```
+just lowercase, monospace,
+minimalist kind of vibes :D
+```
 
 </th></tr></table>
 
