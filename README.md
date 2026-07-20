@@ -13,18 +13,18 @@
 <a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
 <a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
 
+<div align="left">
+
 ```
-just lowercase, monospace,
+lowercase, monospace,
 minimalist kind of vibes :D
 ```
 
+</div>
+
+<br><br>
+
 </th></tr></table>
-
-<br>
-<br>
-<br>
-<br>
-
 
 <details>
 <summary>
