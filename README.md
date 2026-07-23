@@ -5,9 +5,9 @@
 
 <table><tr><th>
 
-#### imagine describing a dog<br>to someone who's<br> never seen one before<br>then asking them to draw it<br><sub>[`🎬backrooms`](https://www.imdb.com/title/tt26657236/)</sub><br>
+### something about<br><sub>[`🎬Toy Story 5`](https://www.imdb.com/title/tt26657236/) [`🎬Backrooms`](https://www.imdb.com/title/tt26657236/)<br>[`🎬Good Luck, Have Fun, Dont Die`](https://www.imdb.com/title/tt1341338)</sub><br>
 
-<kbd>`——————————— today's random text ———————————`</kbd><br>
+<kbd>`———————— today's random text ———————`</kbd><br>
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
 <a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
