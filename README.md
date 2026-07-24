@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### something about<br><sub>[`🎬Toy Story 5`](https://www.imdb.com/title/tt26657236/) [`🎬Backrooms`](https://www.imdb.com/title/tt26657236/)<br>[`🎬Good Luck, Have Fun, Dont Die`](https://www.imdb.com/title/tt1341338)</sub><br>
+### there is no useless person :D<br><sub>[]()</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
