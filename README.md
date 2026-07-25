@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### dont worry deena <br>we're going to do something<br>![](https://www.youtube.com/favicon.ico) <sub>[the 9/11 flight that fought back](https://www.youtube.com/watch?v=eDOxhrqw5Tk)</sub>
+## idk<sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
