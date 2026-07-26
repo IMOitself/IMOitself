@@ -15,7 +15,7 @@
 
 <div align="left">
 
-```
+```ruby
 lowercase, monospace,
 minimalist kind of vibes :D
 ```
