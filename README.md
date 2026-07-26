@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## idk<sub></sub>
+## even if AI<br>can be creative<br>its far from enough<br> to rival a human mind :D<sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
