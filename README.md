@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### ai can be creative,<br>but its not enough<br> to rival a human mind :D<sub></sub>
+### i wish for a billion dollars<br><sub>[🎬 obsession (2025)](https://www.imdb.com/title/tt37287335/)</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
