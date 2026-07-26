@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## even tho AI<br>can be creative,<br>its far from enough<br> to rival a human mind :D<sub></sub>
+### ai can be creative,<br>but its not enough<br> to rival a human mind :D<sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
