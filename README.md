@@ -17,7 +17,7 @@
 
 ```ruby
 lowercase, monospace,
-minimalist kinda of vibes :D
+minimalist kinda vibes :D
 ```
 
 </div>
