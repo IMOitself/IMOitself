@@ -31,6 +31,10 @@ minimalist kinda vibes :D
 
 | `older projects or schoolworks are not included in this table.` |
 | :-----: |
+**JULY**<br> `💪` `grind`
+<a href="https://github.com/IMOitself/personal-react-website"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=personal-react-website&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="personal-react-website"></a>
+<a href="https://github.com/IMOitself/ovo"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=ovo&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="ovo"></a>
+<a href="https://github.com/IMOitself/setup-some-stuffs"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=setup-some-stuffs&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="setup-some-stuffs"></a>
 **JUNE**<br> `🚩` `flags`
 <a href="https://github.com/IMOitself/CentralLuzonCTF2026"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=CentralLuzonCTF2026&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="CentralLuzonCTF2026"></a>
 <a href="https://github.com/IMOitself/kyokugen-ctf-2026"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=kyokugen-ctf-2026&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="kyokugen-ctf-2026"></a>
