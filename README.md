@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### 7 commits per day<br> challenge >:D<sub></sub>
+### the best antidote<br> is bread<sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
