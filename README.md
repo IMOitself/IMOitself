@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### the best antidote<br> is bread<sub></sub>
+## the best antidote<br> is bread :)<sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
