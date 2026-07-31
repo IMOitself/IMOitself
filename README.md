@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## *`(FELC**R)`*<br>made the mistake of<br> typing it into Google.<br> <sub>[🎬the martian (2015)](https://www.imdb.com/title/tt3659388/)</sub>
+### *`(FE*CH*R)`*<br>made the mistake of<br> typing it into google.<br>no, dont.<br><sub>[🎬the martian (2015)](https://www.imdb.com/title/tt3659388/)</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
