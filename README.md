@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### *`(FE*CH*R)`*<br>made the mistake of<br> typing it into google.<br>no, dont.<br><sub>[🎬the martian (2015)](https://www.imdb.com/title/tt3659388/)</sub>
+### its now august :O<br><sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
