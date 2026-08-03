@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### `james stag:`<br>how can the weather be boring?<br><sub>[🎬 pressure (2026)](https://www.imdb.com/title/tt32547691)</sub>
+### `james stag:`<br>how can the weather<br> be boring?<br><sub>[🎬 pressure (2026)](https://www.imdb.com/title/tt32547691)</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
