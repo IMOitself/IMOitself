@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### `james stag:`<br>how can the weather<br> be boring?<br><sub>[🎬 pressure (2026)](https://www.imdb.com/title/tt32547691)</sub>
+### <br><sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
@@ -26,7 +26,7 @@ minimalist kinda vibes :D
 
 <details>
 <summary>
-<h2><code>see personal projects</code><h2>
+<h2><code>see monthly projects</code><h2>
 </summary>
 
 | `older projects or schoolworks are not included in this table.` |
@@ -66,13 +66,9 @@ minimalist kinda vibes :D
 <a href="https://github.com/IMOitself/repo-missile"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=repo-missile&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="repo-missile"></a>
 <a href="https://github.com/IMOitself/emojistats"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=emojistats&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="emojistats"></a>
 **June**
-<a href="https://github.com/IMOitself/AfterBuild"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=AfterBuild&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="After Build"></a>
-<a href="https://github.com/IMOitself/AfterRun"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=AfterRun&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="After Run"></a>
-<a href="https://github.com/IMOitself/AfterGit-Official"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=AfterGit-Official&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="After Git Official"></a>
-<a href="https://github.com/IMOitself/AfterGit"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=AfterGit&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="After Git"></a>
-<a href="https://github.com/IMOitself/AfterReadme"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=AfterReadme&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="After Readme"></a>
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterBuild.svg)](https://github.com/IMOitself/AfterBuild)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterRun.svg)](https://github.com/IMOitself/AfterRun)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit-Official.svg)](https://github.com/IMOitself/AfterGit-Official)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit.svg)](https://github.com/IMOitself/AfterGit)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterReadme.svg)](https://github.com/IMOitself/AfterReadme)
 **May**
-<a href="https://github.com/IMOitself/hunterexam"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=IMOitself&repo=HunterExam&bg_color=2b2d5b&title_color=fff&text_color=f4f4f4&icon_color=fff&hide_border=true" alt="Hunter Exam"></a>
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/hunterexam.svg)](https://github.com/IMOitself/hunterexam)
 
 <br>
 
