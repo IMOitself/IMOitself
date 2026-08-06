@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### something about <br> [bog](https://www.youtube.com/@bogxd) and [dzuma](https://www.youtube.com/@dzumq)<br>yt channels<br><sub></sub>
+### some more else<br><sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
