@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### some more else<br><sub></sub>
+### do it manually<br>until u dont need to :D<br><sub></sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
