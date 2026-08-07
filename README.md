@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### something about<br>wreck it ralph and<br>ralph breaks the internet<br><sub></sub>
+### its ok to not know <br>what ur doing :D<br><sub>![](https://www.youtube.com/favicon.ico) [`farzy`](https://www.youtube.com/watch?v=wBN_TVUZ-mc)</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
