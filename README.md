@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### its ok to not know <br>what ur doing :D<br><sub>![](https://www.youtube.com/favicon.ico) [`farzy`](https://www.youtube.com/watch?v=wBN_TVUZ-mc)</sub>
+### last to leave mansion,<br>keep it<br><sub>![](https://www.youtube.com/favicon.ico) [`golden 57mins video`](https://www.youtube.com/watch?v=Af6i6ChAVTw)</sub>
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
