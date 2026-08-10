@@ -5,7 +5,8 @@
 
 <table><tr><th>
 
-### last to leave mansion,<br>keep it<br><sub>![](https://www.youtube.com/favicon.ico) [`golden 57mins video`](https://www.youtube.com/watch?v=Af6i6ChAVTw)</sub>
+### chimney fishing!<br><sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [`the last house (2026)`](https://www.imdb.com/title/tt32268156/)</sub>
+<!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
 <kbd>`———————— today's random text ———————`</kbd><br>
 
