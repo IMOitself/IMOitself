@@ -11,7 +11,7 @@
 
 [![](DELETETHISTEXThttp://trophy.ryglcloud.net/?username=IMOitself&no-frame=true&margin-w=8&title=Commits,Repositories,MultiLanguage&column=3&bg_color=2b2d5b&title_color=fff&icon_color=fff)](http://trophy.ryglcloud.net/?username=IMOitself&theme=nord)
 <a href="https://visitorbadge.io/status?path=IMOitself"><img width="100" src="https://api.visitorbadge.io/api/visitors?path=IMOitself&label=VIEWS&labelColor=%232b2d5b&countColor=%232b2d5b"></a>
-<a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/other%20accounts-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/IMOaswell"><img width="123" src="https://img.shields.io/badge/secret%20account-2b2d5b?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <div align="left">
 
