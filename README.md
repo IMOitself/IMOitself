@@ -32,8 +32,8 @@ minimalist kinda vibes :D
 
 | `older projects or schoolworks are not included in this table.` |
 | :-----: |
-**AUGUST**<br> `❓` `???`
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://github.com/IMOitself/bible-widget)
+**AUGUST**<br> `❓` `untitled yet`
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://github.com/IMOitself/bible-widget)
 **JULY**<br> `💪` `grind`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/zamuwelle/VeriVerdad.svg)](https://github.com/zamuwelle/VeriVerdad)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/personal-react-website.svg)](https://github.com/IMOitself/personal-react-website)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/ovo.svg)](https://github.com/IMOitself/ovo)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/setup-some-stuffs.svg)](https://github.com/IMOitself/setup-some-stuffs)
 **JUNE**<br> `🚩` `flags`
