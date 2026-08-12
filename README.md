@@ -18,12 +18,12 @@
 <div align="left">
 
 ```ruby
-.                        .
+ㅤ
 
   lowercase, monospace,
 minimalist kinda vibes :D
 
-.                        .
+ㅤ
 ```
 
 </div>
