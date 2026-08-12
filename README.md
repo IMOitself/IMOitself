@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### <br>
+### some more else<br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
@@ -18,17 +18,19 @@
 <div align="left">
 
 ```ruby
-lowercase, monospace,
+.                        .
+
+  lowercase, monospace,
 minimalist kinda vibes :D
+
+.                        .
 ```
 
 </div>
 
 </th></tr></table>
 
-<br><br><br><br>
-
-| **AUGUST**<br> `❓` `no theme yet` |
+| **AUGUST**<br> `:D` `no theme yet` |
 | :-----: |
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)
 
