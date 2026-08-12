@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### ngl working with ai<br> is super fast<br><sub>`still hate vibe coding tho`<br>
+### <br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
@@ -34,7 +34,7 @@ minimalist kinda vibes :D
 | `older projects or schoolworks are not included in this table.` |
 | :-----: |
 **AUGUST**<br> `❓` `untitled yet`
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://github.com/IMOitself/bible-widget)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)
 **JULY**<br> `💪` `grind`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/zamuwelle/VeriVerdad.svg)](https://github.com/zamuwelle/VeriVerdad)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/personal-react-website.svg)](https://github.com/IMOitself/personal-react-website)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/ovo.svg)](https://github.com/IMOitself/ovo)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/setup-some-stuffs.svg)](https://github.com/IMOitself/setup-some-stuffs)
 **JUNE**<br> `🚩` `flags`
