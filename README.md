@@ -20,7 +20,7 @@
 ```ruby
 ㅤ
 
-   lowercase, monospace,
+    lowercase, monospace,
   minimalist kinda vibes :D
 
 ㅤ
