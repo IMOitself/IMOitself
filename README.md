@@ -30,6 +30,8 @@
 
 </th></tr></table>
 
+<br>
+
 | **AUGUST**<br> `:D` `no theme yet` |
 | :-----: |
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)
