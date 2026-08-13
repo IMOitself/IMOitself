@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### some more else<br>
+### be super productive :D<br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
@@ -20,7 +20,7 @@
 ```ruby
 ㅤ
 
-    lowercase, monospace,
+   lowercase, monospace,
   minimalist kinda vibes :D
 
 ㅤ
