@@ -41,9 +41,8 @@
 <h2><code>see previous month projects</code><h2>
 </summary>
 
-| <kbd> some very old projects and schoolworks arent in this table. |
+| **JULY**<br> `💪` `grind` |
 | :-----: |
-**JULY**<br> `💪` `grind`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/zamuwelle/VeriVerdad.svg)](https://github.com/zamuwelle/VeriVerdad)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/personal-react-website.svg)](https://github.com/IMOitself/personal-react-website)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/ovo.svg)](https://github.com/IMOitself/ovo)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/setup-some-stuffs.svg)](https://github.com/IMOitself/setup-some-stuffs)
 **JUNE**<br> `🚩` `flags`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/CentralLuzonCTF2026.svg)](https://github.com/IMOitself/CentralLuzonCTF2026)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/kyokugen-ctf-2026.svg)](https://github.com/IMOitself/kyokugen-ctf-2026)
@@ -69,6 +68,7 @@
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterBuild.svg)](https://github.com/IMOitself/AfterBuild)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterRun.svg)](https://github.com/IMOitself/AfterRun)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit-Official.svg)](https://github.com/IMOitself/AfterGit-Official)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit.svg)](https://github.com/IMOitself/AfterGit)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterReadme.svg)](https://github.com/IMOitself/AfterReadme)
 **May**
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/hunterexam.svg)](https://github.com/IMOitself/hunterexam)
+<kbd> older projects and academic ones are not in this table.
 
 <br>
 
