@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### im watching the<br> dream smp<br> for the first time!  <br><sub>![](https://www.youtube.com/favicon.ico) [`part 1`](https://www.youtube.com/watch?v=adX_PE6f7mk)</sub><sub>![](https://www.youtube.com/favicon.ico) [`part 2`](https://www.youtube.com/watch?v=rvpA40YcnTI)</sub><br>
+### u know what did <br>they do, tommy? <br>they exiled him.<br><sub>![](https://www.youtube.com/favicon.ico) [`watching dream smp 3`](https://www.youtube.com/watch?v=hPGDHIbKCbA)</sub><br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
