@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### u know what did <br>they do, tommy? <br>they exiled him.<br><sub>![](https://www.youtube.com/favicon.ico) [`watching dream smp 3`](https://www.youtube.com/watch?v=hPGDHIbKCbA)</sub><br>
+#### those who know<br> arent talking, <br>those who dont,<br> well u cant shut them up<br><sub>![](https://www.youtube.com/favicon.ico) [`cybersecurity expert`](https://youtu.be/dc6q04o8Y6o?t=538)</sub><br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
