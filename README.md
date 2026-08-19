@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## au revoir, shosanna!<br><sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [`inglourious basterds`](https://www.imdb.com/title/tt0361748)</sub><br>
+## gary orkam oliver<br> magma ichabod <br>the deceiver<br><sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [`minions and monsters`](https://www.imdb.com/title/tt32890033)</sub><br>
 <!-- <sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 
