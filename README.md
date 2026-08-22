@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### rewatching <br>wendigoon vids :D<br><sub><img src="https://yt3.ggpht.com/W517qRWpVmgVaVz8RD2tXAAins5NoniTB7m7RPPaDOtOFFWSQHO2dOoqf6IX50LmV_ysB6FjKp8=s88-c-k-c0x00ffffff-no-rj" width=16 height=16> [`wendigoon`](https://www.youtube.com/@Wendigoon)</sub><br>
+### rex orange county :D<br><sub><img src="https://www.youtube.com/favicon.ico" width=16 height=16> [`the shade`](https://www.youtube.com/watch?v=XwRlsNpJgD0)</sub><br><sub><img src="https://www.youtube.com/favicon.ico" width=16 height=16> [`best friend`](https://www.youtube.com/watch?v=OqBuXQLR4Y8)</sub><br><sub><img src="https://www.youtube.com/favicon.ico" width=16 height=16> [`what about me`](https://www.youtube.com/watch?v=0jMjVnACzTg)</sub><br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
