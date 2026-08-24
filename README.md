@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### mumbo's art gallery :D<br><sub><img src="https://www.youtube.com/favicon.ico" width=16 height=16> [`ep 26: grand opening`](https://youtu.be/zPf4c6SQ_sk)</sub><br>
+### time to stop<br>being too complacent :)<br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
