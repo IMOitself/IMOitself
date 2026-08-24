@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### time to stop<br>being too complacent :)<br>
+### a day in the life<br>of an indie game dev<br>& student - monday<br><img src="https://yt3.ggpht.com/ytc/AIdro_kXkQ2ocLdr0cHM6VlTOyBT015UahMi78UfpwSur0XWFu0=s88-c-k-c0x00ffffff-no-rj" width=16 height=16> [`dani`](https://www.youtube.com/watch?v=C9MLwI70zcE)<br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
