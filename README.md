@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## leaving a world behind<br><sub><img src="https://yt3.googleusercontent.com/_d8Igd_pG5K-FCokIlr9FQKQyVqoXTk_gyH_qc5XfTBgpVfVOKIOijF1pftpB4FXiT3X3acV7w=s160-c-k-c0x00ffffff-no-rj" width=16 height=16> [`tomyto`](https://www.youtube.com/watch?v=J3c426loZLc)</sub><br>
+## stuffs just get<br>exponentially hard<br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
