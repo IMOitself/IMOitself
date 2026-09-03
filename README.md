@@ -20,8 +20,9 @@
 
 ```ruby
   
-   lowercase, monospace,
-  minimalist kinda vibes :D
+  this profile is only for
+  motivation and quick links.
+  not for pleasing anyone :D
   
 ```
 
@@ -31,17 +32,19 @@
 
 <br>
 
-| **AUGUST**<br> `🤓` `actually` |
+| **SEPTEMBER**<br> `❔` `no theme yet` |
 | :-----: |
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS.svg)](https://github.com/IMOitself/DRRT-IMS)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS-ui-designs.svg)](https://github.com/IMOitself/DRRT-IMS-ui-designs)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/advanced-python.svg)](https://github.com/IMOitself/advanced-python)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/obs-scene-switcher.svg)](https://github.com/IMOitself/obs-scene-switcher)
 
 <details>
 <summary>
-<h2><code>see previous month projects</code><h2>
+<h2><code>see last personal projects</code><h2>
 </summary>
 
-| **JULY**<br> `💪` `grind` |
+| **AUGUST**<br> `🤓` `actually` |
 | :-----: |
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS.svg)](https://github.com/IMOitself/DRRT-IMS)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS-ui-designs.svg)](https://github.com/IMOitself/DRRT-IMS-ui-designs)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/advanced-python.svg)](https://github.com/IMOitself/advanced-python)
+**JULY**<br> `💪` `grind`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/zamuwelle/VeriVerdad.svg)](https://github.com/zamuwelle/VeriVerdad)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/personal-react-website.svg)](https://github.com/IMOitself/personal-react-website)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/ovo.svg)](https://github.com/IMOitself/ovo)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/setup-some-stuffs.svg)](https://github.com/IMOitself/setup-some-stuffs)
 **JUNE**<br> `🚩` `flags`
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/CentralLuzonCTF2026.svg)](https://github.com/IMOitself/CentralLuzonCTF2026)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/kyokugen-ctf-2026.svg)](https://github.com/IMOitself/kyokugen-ctf-2026)
@@ -67,7 +70,7 @@
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterBuild.svg)](https://github.com/IMOitself/AfterBuild)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterRun.svg)](https://github.com/IMOitself/AfterRun)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit-Official.svg)](https://github.com/IMOitself/AfterGit-Official)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit.svg)](https://github.com/IMOitself/AfterGit)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterReadme.svg)](https://github.com/IMOitself/AfterReadme)
 **May**
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/hunterexam.svg)](https://github.com/IMOitself/hunterexam)
-<kbd> older projects and academic ones are not in this table.
+<kbd> older projects and most academic ones are not in this table.
 
 <br>
 
