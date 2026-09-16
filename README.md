@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## good feat, <br>minimal edit<br>
+### if u never actually<br>make the thing,<br>it remains<br>perfect in ur head<br><sub><img src="https://yt3.ggpht.com/ssE5Ek6IuCo3BjDPDodGFjQ6_Ubtt4iKpKmLNznY55gEXjxHAFGK_8YB1tjI5V_vfYqT298DAw=s88-c-k-c0x00ffffff-no-rj" width=16 height=16> [`mumbo's latest`](https://www.youtube.com/watch?v=2laHqDi0oSw)</sub><br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
@@ -19,11 +19,9 @@
 <div align="left">
 
 ```ruby
-  
   this profile is only for
   motivation and quick links.
   not for pleasing anyone :D
-  
 ```
 
 </div>
