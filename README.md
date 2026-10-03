@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## something so close<br>but so far away<br>
+## jealousy, <br> turning saints into <br>the sea<br><sub>[`🎶mr. brightside`](https://www.youtube.com/watch?v=gGdGFtwCNBE)</sub><br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
@@ -19,11 +19,9 @@
 <div align="left">
 
 ```ruby
-  
   this profile is only for
   motivation and quick links.
   not for pleasing anyone :D
-  
 ```
 
 </div>
