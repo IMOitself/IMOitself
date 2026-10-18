@@ -32,7 +32,7 @@
 
 <br>
 
-| **OCTOBER**<br> `❔` `no theme yet` |
+| **OCTOBER**<br> `🖐️` `hands` |
 | :-----: |
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)
 
