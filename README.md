@@ -34,8 +34,7 @@
 
 | **OCTOBER**<br> `❔` `no theme yet` |
 | :-----: |
-`no project yet but coming soon :D`
-https://github.com/IMOitself/personal-github-banner/blob/master/mini-repo-banners/HandDrop.svg
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)
 
 <details>
 <summary>
