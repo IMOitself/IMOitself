@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-### u need to resist <br> early dopamine hit of <br>getting something<br>immediately<br><sub>[`carlos kelkboom`](https://www.youtube.com/watch?v=mkN4uRZYPfs)</sub><br>
+## yall are wanting <br>spiderman<br>but walk past<br> peter parker everyday<br>
 <!-- <br><<sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
@@ -35,6 +35,7 @@
 | **OCTOBER**<br> `❔` `no theme yet` |
 | :-----: |
 `no project yet but coming soon :D`
+https://github.com/IMOitself/personal-github-banner/blob/master/mini-repo-banners/HandDrop.svg
 
 <details>
 <summary>
