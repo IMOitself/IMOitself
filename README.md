@@ -34,7 +34,7 @@
 
 | **OCTOBER**<br> `🖐️` `hands` |
 | :-----: |
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF26-writeups.svg)](https://github.com/IMOitself/picoCTF26-writeups)
 
 <details>
 <summary>
