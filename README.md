@@ -32,17 +32,19 @@
 
 <br>
 
-| **OCTOBER**<br> `🤖` `agentic` |
+| **NOVEMBER**<br> `🚫` `no game` |
 | :-----: |
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF26-writeups.svg)](https://github.com/IMOitself/picoCTF26-writeups)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/Tamarack.svg)](https://github.com/IMOitself/tamarack)
 
 <details>
 <summary>
 <h2><code>see last personal projects</code><h2>
 </summary>
 
-| **SEPTEMBER**<br> `🫠` `sleepless` |
+| **OCTOBER**<br> `🤖` `agentic` |
 | :-----: |
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/HandDrop.svg)](https://github.com/IMOitself/HandDrop)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF26-writeups.svg)](https://github.com/IMOitself/picoCTF26-writeups)
+| **SEPTEMBER**<br> `🫠` `sleepless` |
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/obs-scene-switcher.svg)](https://github.com/IMOitself/obs-scene-switcher)
 | **AUGUST**<br> `🤓` `actually` |
 [![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS.svg)](https://github.com/IMOitself/DRRT-IMS)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/DRRT-IMS-ui-designs.svg)](https://github.com/IMOitself/DRRT-IMS-ui-designs)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/bible-widget.svg)](https://bible-imo.web.app)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/tvbrowser.svg)](https://github.com/IMOitself/tvbrowser)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/picoCTF22-writeups.svg)](https://github.com/IMOitself/picoCTF22-writeups)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/advanced-python.svg)](https://github.com/IMOitself/advanced-python)
