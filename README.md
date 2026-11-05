@@ -34,7 +34,7 @@
 
 | **NOVEMBER**<br> `🚫` `no game` |
 | :-----: |
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/Tamarack.svg)](https://github.com/IMOitself/tamarack)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/Tamarack.svg)](https://github.com/IMOitself/tamarack)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/meron.svg)](https://github.com/IMOitself/meron)
 
 <details>
 <summary>
