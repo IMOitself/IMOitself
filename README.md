@@ -80,17 +80,15 @@
 
 </details>
 
+<details>
+<summary><h3><code>see academic projects</code><h3></summary>
 
-
-</div>
-
-</div>
-
-<!--
-> [!WARNING]
-> work in progress :D
-
-## academic projects
+- https://github.com/IMOitself/DRRT-IMS
+- https://github.com/IMOitself/DRRT-IMS-ui-designs
+- https://github.com/IMOitself/appdev1-final-practical-exam
+- https://github.com/IMOitself/APPDEV1
+- https://github.com/IMOitself/appdev1-practical-exam
+- https://github.com/IMOitself/04_APPDEV1_EmergingTech
 - https://github.com/IMOitself/anime-rate-and-roll
 - https://github.com/IMOitself/wad-html-act
 - https://github.com/IMOitself/wad-laravel-react-act2-3
@@ -114,3 +112,10 @@
 - https://github.com/IMOitself/wad-js-activity
 - https://github.com/IMOitself/wad-lab2-html-css
 - https://github.com/IMOitself/hunterexam
+
+</details>
+
+
+</div>
+
+</div>
