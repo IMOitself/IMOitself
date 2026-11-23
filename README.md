@@ -34,7 +34,7 @@
 
 | **NOVEMBER**<br> `🚫` `no game` |
 | :-----: |
-[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/Tamarack.svg)](https://github.com/IMOitself/tamarack)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/meron.svg)](https://github.com/IMOitself/meron)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/unfinished-useless-game.svg)](https://github.com/IMOitself/godot-game-idk)
+[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/Tamarack.svg)](https://github.com/IMOitself/tamarack)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/meron.svg)](https://github.com/IMOitself/meron)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/unfinished-useless-game.svg)](https://github.com/IMOitself/godot-game-idk)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/prompt-maxxing.svg)](https://github.com/IMOitself/prompt-maxxing)[![](https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/absolute-universe-readlist.svg)](https://github.com/IMOitself/absolute-universe-readlist)
 
 <details>
 <summary>
