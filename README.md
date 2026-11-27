@@ -5,7 +5,7 @@
 
 <table><tr><th>
 
-## if it's so simple, <br>why haven't you <br>done it already?<br><sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [`the dark knight`](https://www.imdb.com/title/tt0468569)</sub><br>
+## turtle theory, <br>i have my own<br> journey and stuff<br>
 <!-- <br><sub>![](https://www.google.com/s2/favicons?sz=16&domain_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt32268156%2F) [``]()</sub> -->
 <!-- <br><<sub>![](https://www.youtube.com/favicon.ico) [``]()</sub> -->
 <!-- <br><sub><img src="" width=16 height=16> [``]()</sub> -->
